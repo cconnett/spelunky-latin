@@ -691,33 +691,33 @@ Lava
 IDS_JOURNAL_LAVA_DESC
 Molten rock that flows deep underground. The heat can melt almost anything!
 IDS_STARTMSG
-The walls are shifting...
+Moeniae sunt versis...
 IDS_JOURNALPICKUP
 You picked up a journal! Press @- to open it.
 IDS_LEVELFEELING_CEMETARY
-The dead are restless...
+Mortui sunt inquietum...
 IDS_LEVELFEELING_MARKET
-Welcome to the Black Market!
+Salve in Venalicio Nigro!
 IDS_LEVELFEELING_CASTLE
-A wolf howls in the distance...
+Ululat lupus in distantia...
 IDS_LEVELFEELING_SNAKEPIT
-I hear snakes... I hate snakes!
+Audio serpentes ... ego odi serpentes!
 IDS_LEVELFEELING_SPIDER
-My skin is crawling...
+Cutis meum horreo...
 IDS_LEVELFEELING_JULY
-It feels like the fourth of July...
+Hoc videtur provenire ex orbe alienigeno...
 IDS_LEVELFEELING_YETICAVE
-It smells like wet fur in here.
+Odor in hic sicut est capillus humidus.
 IDS_LEVELFEELING_SACPIT
-You hear prayers to Kali!
+Audis orationem Kalide!
 IDS_LEVELFEELING_VLAD
-A horrible feeling of nausea comes over you!
+Valde nauseas!
 IDS_LEVELFEELING_LAKE
-I hear rushing water!
+Audio amnem!
 IDS_LEVELFEELING_ASHIP
-I sense a psychic presence here!
+Hic sentio psychicam praesentiam!
 IDS_LEVELFEELING_DARK
-I can't see a thing!
+Nihil video!
 IDS_TRYAGAIN
 Let's try that again!
 IDS_SHOPKEEPER_NAME1
