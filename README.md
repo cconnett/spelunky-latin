@@ -1,2 +1,2 @@
 # spelunky-latin
-A translation Spelunky HD into linguam latinam.
+A translation of Spelunky HD into linguam latinam.
