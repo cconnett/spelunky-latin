@@ -5,15 +5,15 @@ Et solitudinum retro extendens,
 IDS_INTRO1_3
 Postquam ego duplici-scrutari atlantum meum,
 IDS_INTRO1_4
-My lips cracked and covered in sand,
+Labia mea hiulca et operatus cum pulvere,
 IDS_INTRO1_5
 Cum fortuna deducet me omnis moventur,
 IDS_INTRO1_6
 Ponens imagonem decolorem in sinu meo,
 IDS_INTRO1_7
-As I recalled my father's last words,
+Uti verba postrema patris mei memoro,
 IDS_INTRO1_8
-My memory slipping away from me,
+Memoria ab me dimitto,
 IDS_INTRO2_1
 I strode valiantly toward my destiny,
 IDS_INTRO2_2
@@ -35,7 +35,7 @@ And thought of her one last time.
 IDS_INTRO3_2
 Et adversus ventum petasum meum tenuit.
 IDS_INTRO3_3
-Adsumpsit me et ab Arcturo frigus.
+Et arcturo frigus me adsumpsit.
 IDS_INTRO3_4
 Et mirabantur quamdiu velis esse deorsum.
 IDS_INTRO3_5
@@ -43,7 +43,7 @@ Et vovi ad victor.
 IDS_INTRO3_6
 Et testari me vocem audire ante eum.
 IDS_INTRO3_7
-And felt the gods smiling upon me.
+Et sentibam deos me annuentes.
 IDS_INTRO3_8
 And that's when it all started.
 IDS_TITLEGUIDE
@@ -1565,7 +1565,7 @@ I was stung by a scorpion!
 IDS_GAMEOVERDESC_CAVEMAN
 A caveman pummeled me to death.
 IDS_GAMEOVERDESC_SHOPKEEPER
-I should never have angered that shopkeeper...
+Illem coponem non irriavissem...
 IDS_GAMEOVERDESC_YETI
 A yeti pummeled me to death.
 IDS_GAMEOVERDESC_TIKIMAN
@@ -1615,19 +1615,19 @@ Something hard hit me in the head.
 IDS_GAMEOVERDESC_LONGFALL
 I broke every bone in my body.
 IDS_GAMEOVERDESC_EXPLOSION
-I couldn't get away in time.
+Non possum exire cis brevem.
 IDS_GAMEOVERDESC_SPIKES
-I fell on some spikes.
+Ego in dentes cecidi.
 IDS_GAMEOVERDESC_ARROW
 An arrow has pierced one of my vital organs.
 IDS_GAMEOVERDESC_TIKITRAP
-I stepped too close to a tiki trap.
+Adivi nimis prope insidiam tikum.
 IDS_GAMEOVERDESC_CRUSHED
-I've been ground into a fine paste.
+Ego in glutinem subtilem contritus sum.
 IDS_GAMEOVERDESC_FROZEN
-My frozen body shattered into a million pieces.
+Corpus glacialis fregit in milionem carunculae.
 IDS_GAMEOVERDESC_ABYSS
-Help, I'm still falling!
+Juva, cado tamen!
 IDS_GAMEOVERDESC_LAVA
 I've been burnt to a crisp.
 IDS_GAMEOVERDESC_UFO
@@ -1635,7 +1635,7 @@ I've been incinerated by a UFO laser blast.
 IDS_GAMEOVERDESC_SLAMMED
 I was slammed hard into a wall.
 IDS_GAMEOVERDESC_DIED
-Et mortuus sum.
+Iterum mortuus sum.
 IDS_LOCKED
 Locked
 IDS_UNLOCK
@@ -1921,7 +1921,7 @@ Ut iter praemium ipsum est et dominatus thesaurus summus est!
 IDS_ENDING_YANG6
 Etiam sit amet nisi aurum quoque!
 IDS_ENDING_YANG7
-Wha ha ha! Now let's get out of here before my joints get stiff!
+Va ha ha! Now let's get out of here before my joints get stiff!
 IDS_JOURNAL_VALUE
 Pretium:
 IDS_GUIDE_BACK
