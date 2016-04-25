@@ -7,7 +7,7 @@ Postquam ego duplici-scrutari atlantum meum,
 IDS_INTRO1_4
 Labia mea hiulca et operatus cum pulvere,
 IDS_INTRO1_5
-Cum fortuna deducet me omnis moventur,
+Fortuna deducet me omnis moventur,
 IDS_INTRO1_6
 Ponens imagonem decolorem in sinu meo,
 IDS_INTRO1_7
@@ -16,6 +16,7 @@ IDS_INTRO1_8
 Memoria ab me dimitto,
 IDS_INTRO2_1
 I strode valiantly toward my destiny,
+Audacter ad fatum meum ii,
 IDS_INTRO2_2
 I squeezed the whip at my side,
 IDS_INTRO2_3
@@ -111,25 +112,25 @@ You can also bring these golden idols to the exits for big money rewards. They'r
 IDS_HOWTOPLAY4_4
 That covers the basics, but there's so much more to discover once you start playing! Have fun!
 IDS_JOURNAL
-Journal
+Commentarium
 IDS_JOURNAL_PLACES
-Places
+Loci
 IDS_JOURNAL_MONSTERS
-Monsters
+Moles
 IDS_JOURNAL_ITEMS
-Items
+Res
 IDS_JOURNAL_TRAPS
-Traps
+Insidiae
 IDS_VERIFY_AREYOUSURE
-Are you sure?
+Nonne?
 IDS_VERIFY_NO
 Minime
 IDS_VERIFY_YES
 Sic
 IDS_LEADERBOARDS_HIGHSCORES
-HIGH SCORES
+PRAEDA PLURIMA
 IDS_LEADERBOARDS_FASTESTTIMES
-FASTEST TIMES
+VELOCISSIME
 IDS_LEADERBOARDS_WEEKLYSCORES
 WEEKLY SCORES
 IDS_LEADERBOARDS_WEEKLYTIMES
@@ -137,17 +138,17 @@ WEEKLY TIMES
 IDS_LEADERBOARDS_INVALID
 INVALID BOARD
 IDS_LEADERBOARDS_RANK
-RANK
+ORDO
 IDS_LEADERBOARDS_GAMERTAG
 GAMERTAG
 IDS_LEADERBOARDS_CHARACTER
-CHARACTER
+PERSONA
 IDS_LEADERBOARDS_LEVEL
 LEVEL
 IDS_LEADERBOARDS_SCORE
-SCORE
+PRAEDA
 IDS_LEADERBOARDS_FRIENDS
-Friends
+AMICI
 IDS_LEADERBOARDS_MYSCORES
 My Scores
 IDS_LEADERBOARDS_OVERALL
@@ -155,27 +156,27 @@ Overall
 IDS_LEADERBOARDS_READING
 Reading leaderboards...
 IDS_LEADERBOARDS_FRIENDSNOTRANKED
-Your friends are not yet ranked on this leaderboard.
+Amici tui adhoc non propositi in hac tabula.
 IDS_LEADERBOARDS_NOTRANKED
-You are not yet ranked on this leaderboard.
+Tu adhoc non propositus in hac tabula.
 IDS_PLAYERPROFILE_LASTGAMEPLAYED
 Last Game Played
 IDS_PLAYERPROFILE_PLAYS
-Plays:
+Ludi:
 IDS_PLAYERPROFILE_DEATHS
-Deaths:
+Mortes:
 IDS_PLAYERPROFILE_WINS
-Wins:
+Victoriis:
 IDS_PLAYERPROFILE_AVGSCORE
 Avg. Score:
 IDS_PLAYERPROFILE_BESTSCORE
-Best Score:
+Praeda Plurima:
 IDS_PLAYERPROFILE_BESTTIME
 Best Time:
 IDS_PLAYERPROFILE_LEVEL
 Level:
 IDS_PLAYERPROFILE_SCORE
-Score:
+Praeda:
 IDS_CONTROLS
 CONTROLS
 IDS_CONTROLS_WHIP
@@ -1537,7 +1538,7 @@ Well, at least we made it out of the fodinae!
 IDS_GAMEOVERDESC_MULTIMINES
 We need to work on our teamwork!
 IDS_GAMEOVERDESC_WORM
-I hope I taste good, at least!
+Spero gustem bene, saltem!
 IDS_GAMEOVERDESC_MINESEND
 The end of the fodinae was just in sight! If I could survive a little longer...
 IDS_GAMEOVERDESC_LUSHEND
@@ -1545,33 +1546,33 @@ The air was getting much colder... I almost reached the next area!
 IDS_GAMEOVERDESC_ICEEND
 I can hear muffled chanting coming from below...
 IDS_GAMEOVERDESC_OLMEC
-It seems I was no match for the mighty Olmec. Next time!
+Videtur uti ego non par Olmeco sum. Mox!
 IDS_GAMEOVERDESC_KALI
 I was cast into oblivion by the Black Goddess herself.
 IDS_GAMEOVERDESC_SNAKE1
-Snakes! I hate snakes!
+Serpentes! Ego odi serpentes!
 IDS_GAMEOVERDESC_SNAKE2
-I succumbed to deadly snake venom.
+Ego serpentis fellī atrī succumbo.
 IDS_GAMEOVERDESC_BAT
 A bat nibbled me to death.
 IDS_GAMEOVERDESC_SPIDER
 I succumbed to a spider bite.
 IDS_GAMEOVERDESC_GIANTSPIDER
-That was the biggest spider I've ever seen!
+Illam erat aranea magnissima vivi umquam!
 IDS_GAMEOVERDESC_SKELETON
 I was clawed to death by a skeleton.
 IDS_GAMEOVERDESC_SCORPION
 I was stung by a scorpion!
 IDS_GAMEOVERDESC_CAVEMAN
-A caveman pummeled me to death.
+Neanderthal percussit me ad mortem.
 IDS_GAMEOVERDESC_SHOPKEEPER
 Illem coponem non irriavissem...
 IDS_GAMEOVERDESC_YETI
-A yeti pummeled me to death.
+Yeti percussit me ad mortem.
 IDS_GAMEOVERDESC_TIKIMAN
-A tiki man pummeled me to death.
+Tiki-vir percussit me ad mortem.
 IDS_GAMEOVERDESC_HAWKMAN
-A hawk man pummeled me to death.
+Accipiter-vir percussit me ad mortem.
 IDS_GAMEOVERDESC_FROG
 I got squished by a frog.
 IDS_GAMEOVERDESC_MANTRAP
@@ -1581,13 +1582,13 @@ I was nibbled to death by a piranha.
 IDS_GAMEOVERDESC_JAWS
 I was torn apart by the legendary river monster.
 IDS_GAMEOVERDESC_BEE
-I must be allergic to bees.
+Allergicus apibus esse debeo.
 IDS_GAMEOVERDESC_ACID
 My flesh is melting right off the bone.
 IDS_GAMEOVERDESC_JIANGSHI
-A jiang shi has leeched away my life energy.
+Jiang shi animum meum suxi.
 IDS_GAMEOVERDESC_KNIGHT
-I was treated to a medieval welcome.
+Ego dabatur gratam mediaevalem.
 IDS_GAMEOVERDESC_PSYCHICBLAST
 A powerful psychic blast has liquified my brains.
 IDS_GAMEOVERDESC_MUMMY
@@ -2199,13 +2200,13 @@ That key you're holding looks like it might fit! Can I have it?
 IDS_GAMEOVERDESC_YAMA
 My soul was judged unworthy by the King of the Underworld.
 IDS_GUIDE_QUICKRESTART
-@X Cito Iterum
+@X Subito Iterum
 IDS_GUIDE_SELECT
 @A Electere
 IDS_GUIDE_DONATE
-@A Da
+@A Dare
 IDS_GUIDE_CANCEL
-@B Cancel
+@B Negare
 IDS_CREDITS_DESIGNDIRECTOR
 Design Director
 IDS_CREDITS_DIRECTORXBLA
@@ -2231,9 +2232,9 @@ Sacrificed
 IDS_GAMEOVERDESC_SACRIFICED
 I offered myself to the Black Goddess.
 IDS_GAMEOVER_OLDAGE
-Old Age
+Senectus
 IDS_GAMEOVER_UNKNOWN
-Unknown
+Incognitus
 IDS_TRIAL_VERSION
 TRIAL VERSION
 IDS_ARENA_DLC_1_1
@@ -2501,7 +2502,7 @@ HIGH
 IDS_LOW
 LOW
 IDS_QUICKSTART
-@X Cito Incipere
+@X Subito Incipere
 IDS_REMAP_INVERT_RUN_OFF
 Invert Run: OFF
 IDS_REMAP_INVERT_RUN_ON
