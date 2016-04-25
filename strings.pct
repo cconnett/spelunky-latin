@@ -17,21 +17,21 @@ Memoria ab me dimitto,
 IDS_INTRO2_1
 Audacter ad fatum meum ii,
 IDS_INTRO2_2
-I squeezed the whip at my side,
+Verberem in lato meo teneo,
 IDS_INTRO2_3
-I drained the rest of my canteen,
+Aquam relicam ex ampulla mea bibo,
 IDS_INTRO2_4
-I spotted the cave's entrance,
+Aditum speluncae conspexi,
 IDS_INTRO2_5
-I furrowed my brow,
+Frontem meum peraravi,
 IDS_INTRO2_6
-I paid my Bedouin guide,
+Perductorem Bedouinem pependi,
 IDS_INTRO2_7
-I dismounted my camel,
+Ab camelo meo descendi,
 IDS_INTRO2_8
-I squinted into the darkness,
+In teneba aspexi,
 IDS_INTRO3_1
-And thought of her one last time.
+Et illam postume cogitavi.
 IDS_INTRO3_2
 Et adversus ventum petasum meum tenuit.
 IDS_INTRO3_3
@@ -45,7 +45,7 @@ Et testari me vocem audire ante eum.
 IDS_INTRO3_7
 Et sentibam deos me annuentes.
 IDS_INTRO3_8
-And that's when it all started.
+Et tunc committet.
 IDS_TITLEGUIDE
 Pressa @A committere.
 IDS_BACK
@@ -1435,7 +1435,7 @@ She seems angry with you.
 IDS_KALI_VERY_ANGRY
 She seems very angry with you.
 IDS_KALI_ANGERED
-Exacerbavisti Kalidem!
+Irritavisti Kalidem!
 IDS_KALI_STILL_ECSTATIC
 Yet she still seems ecstatic with you.
 IDS_KALI_STILL_HAPPY
@@ -1557,7 +1557,7 @@ A bat nibbled me to death.
 IDS_GAMEOVERDESC_SPIDER
 I succumbed to a spider bite.
 IDS_GAMEOVERDESC_GIANTSPIDER
-Illam erat aranea magnissima vivi umquam!
+Illam erat araneam magnissimam vidi umquam!
 IDS_GAMEOVERDESC_SKELETON
 I was clawed to death by a skeleton.
 IDS_GAMEOVERDESC_SCORPION
@@ -1565,7 +1565,7 @@ I was stung by a scorpion!
 IDS_GAMEOVERDESC_CAVEMAN
 Neanderthal percussit me ad mortem.
 IDS_GAMEOVERDESC_SHOPKEEPER
-Illem coponem non irritavissem...
+Illum coponem numquam irritaverim debeo...
 IDS_GAMEOVERDESC_YETI
 Yeti percussit me ad mortem.
 IDS_GAMEOVERDESC_TIKIMAN
