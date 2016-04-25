@@ -1373,19 +1373,20 @@ You lost!
 IDS_SHOPMSG_JACKPOT
 You won the jackpot!
 IDS_SHOPMSG_THIEF
-Stop, thief!
+Striga, fur!
 IDS_SHOPMSG_TERRORIST
-Terrorist!
+Rebellis!
 IDS_SHOPMSG_YOULLPAY
 You'll pay for your crimes!
 IDS_SHOPMSG_ONLYI
-Hey, you can't do that!
+Heus, tu ne feceris!
 IDS_SHOPMSG_GOODLUCK
-Good luck!
+Bene fortuna!
 IDS_SHOPMSG_THANKYOU
 Thank you for your business!
 IDS_SHOPMSG_NOMONEY
 You haven't got enough money!
+Satis pecuniam non habetis!
 IDS_SHOPMSG_SLURP
 Slurp!
 IDS_SHOPMSG_SMOOCH
@@ -1551,7 +1552,7 @@ I was cast into oblivion by the Black Goddess herself.
 IDS_GAMEOVERDESC_SNAKE1
 Serpentes! Ego odi serpentes!
 IDS_GAMEOVERDESC_SNAKE2
-Ego serpentis fellī atrī succumbo.
+Ego serpentis felli atri succumbo.
 IDS_GAMEOVERDESC_BAT
 A bat nibbled me to death.
 IDS_GAMEOVERDESC_SPIDER
@@ -1609,7 +1610,7 @@ I was nibbled to death by a minion of Hell!
 IDS_GAMEOVERDESC_DEVIL
 A blue devil perforated me with one of his horns.
 IDS_GAMEOVERDESC_GHOST
-Where am I? I can't feel my body...
+Ubi sum? Non sentio corpum meum...
 IDS_GAMEOVERDESC_BRAINDAMAGE
 Something hard hit me in the head.
 IDS_GAMEOVERDESC_LONGFALL
@@ -1933,7 +1934,7 @@ PRAEFERENTIAE
 IDS_ENDING_HERO
 Tui sicut heros memoria sit.
 IDS_ENDING_MADEIT
-TE VICISTI
+TU VICISTI
 IDS_ENDING_THANKS
 Tibi gracias pro ludente!
 IDS_LEVELEND_CONTINUE
@@ -2029,15 +2030,15 @@ REMAP CONTROLS
 IDS_REMAP_CONTROLS_WHIP
 Whip/Action: 
 IDS_REMAP_CONTROLS_JUMP
-Jump: 
+Salire: 
 IDS_REMAP_CONTROLS_ROPE
-Rope: 
+Funis: 
 IDS_REMAP_CONTROLS_BOMB
-Bomb: 
+Bomba: 
 IDS_REMAP_CONTROLS_RUN
-Run: 
+Currere: 
 IDS_REMAP_CONTROLS_PURCHASE
-Purchase/Door: 
+Sumere/Porta: 
 IDS_GUIDE_REMAP_CONTROLS
 @A Remap Controls
 IDS_GUIDE_DEFAULT_CONTROLS
@@ -2051,7 +2052,7 @@ Music Volume
 IDS_SETTINGS_BRIGHTNESS
 Screen Brightness
 IDS_SETTINGS_DAMSEL
-Damsel Style
+Puella/Puer/Canis
 IDS_GUIDE_RESET_SETTINGS
 @X Default Settings
 IDS_DM_PLAYER_1_WINS
@@ -2095,37 +2096,37 @@ Powder Box
 IDS_JOURNAL_POWDERKEG_DESC
 It's filled with black powder. Handle with care!
 IDS_CHILL
-A terrible chill runs up your spine!
+Frigor fortis vestra tergum currit!
 IDS_JOURNAL_ENTRY_ADDED
-Journal Entry Added
+Perscriptio ascriptum
 IDS_CHARACTER_UNLOCKED
-New Character Unlocked
+Persona Nova Inoffirmatus
 IDS_ENDING_YANG_NOWORDS
 ...
 IDS_ENDING_SCORE
-Final Score:
+Terminalis Copia Praedae:
 IDS_ENDING_TIME
-Time:
+Tempus:
 IDS_GUIDE_SELECTCHAR
-@A Select Character
+@A Electere Personam
 IDS_SCEPTRE_FITS
 The sceptre fits, but nothing is happening!
 IDS_WRONG_KEY
-The key doesn't fit in this door.
+Did you really bring the gold key to 4-2? Either The Tunnelman, or the gold chest in the mines wants that key.
 IDS_ANUBIS_WARNING
 Death to the defiler!
 IDS_LOCKED_ARENA
 ??????
 IDS_LEVELFEELING_COG
-I finally made it!
+Ultime perveni!
 IDS_SHOPBUYIDOL
 Let me take that off your hands!
 IDS_HEADER_BOMBS
-BOMBS
+BOMBA
 IDS_HEADER_ROPES
-ROPES
+FUNES
 IDS_HEADER_MONEY
-MONEY
+PECUNIA
 IDS_CONTROLS_PICKUP
 Hold down on @L and press @S to pick up items and people.
 IDS_WARNING_UNSAVED
