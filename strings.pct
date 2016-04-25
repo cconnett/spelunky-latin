@@ -1377,15 +1377,14 @@ Striga, fur!
 IDS_SHOPMSG_TERRORIST
 Rebellis!
 IDS_SHOPMSG_YOULLPAY
-You'll pay for your crimes!
+Pro sceleres tu pensatus eris!
 IDS_SHOPMSG_ONLYI
 Heus, tu ne feceris!
 IDS_SHOPMSG_GOODLUCK
 Bene fortuna!
 IDS_SHOPMSG_THANKYOU
-Thank you for your business!
+Tibi gracias pro transactionem.
 IDS_SHOPMSG_NOMONEY
-You haven't got enough money!
 Satis pecuniam non habetis!
 IDS_SHOPMSG_SLURP
 Slurp!
@@ -1394,11 +1393,11 @@ Smooch!
 IDS_SHOPMSG_INLOVE
 You must be in love!
 IDS_SHOPMSG_ALLYOURS
-He's all yours.
+Ille tuus est.
 IDS_TUNNELMAN
 Tunnel Man
 IDS_TUNNELMAN1
-Hello there! I'm the Tunnel Man.
+Salve! Tunnel Man sum.
 IDS_TUNNELMAN2
 You can donate a little bit of money each time. I'll remember how much you've paid me.
 IDS_TUNNELMAN3_1
@@ -1628,7 +1627,7 @@ Ego in glutinem subtilem contritus sum.
 IDS_GAMEOVERDESC_FROZEN
 Corpus glacialis fregit in milionem carunculae.
 IDS_GAMEOVERDESC_ABYSS
-Juva, cado tamen!
+Iuva, cado tamen!
 IDS_GAMEOVERDESC_LAVA
 I've been burnt to a crisp.
 IDS_GAMEOVERDESC_UFO
