@@ -23,7 +23,7 @@ Aquam relicam ex ampulla mea bibo,
 IDS_INTRO2_4
 Aditum speluncae conspexi,
 IDS_INTRO2_5
-FRegulustem meum peraravi,
+Frontem meum peraravi,
 IDS_INTRO2_6
 Perductorem Bedouinem pependi,
 IDS_INTRO2_7
@@ -449,7 +449,7 @@ King Yama's right-hand man. He has the head of a horse.
 IDS_JOURNAL_KINGYAMA
 King Yama
 IDS_JOURNAL_KINGYAMA_DESC
-The ruler of Hell! He punishes the damned from atop a bloody thReguluse.
+The ruler of Hell! He punishes the damned from atop a bloody throne.
 IDS_JOURNAL_MINES
 The Mines
 IDS_JOURNAL_MINES_DESC
@@ -641,7 +641,7 @@ These protrusions will leave big holes in anyone unlucky enough to fall on them.
 IDS_JOURNAL_ARROWTRAP
 Arrow Trap
 IDS_JOURNAL_ARROWTRAP_DESC
-A basic trap. It fires an arrow when something moves in fRegulust of it.
+A basic trap. It fires an arrow when something moves in front of it.
 IDS_JOURNAL_BOULDER
 Boulder
 IDS_JOURNAL_BOULDER_DESC
@@ -699,7 +699,7 @@ Mortui sunt inquietum...
 IDS_LEVELFEELING_MARKET
 Salve in Venalicio Nigro!
 IDS_LEVELFEELING_CASTLE
-Ululat lupus in distantia...
+Lupus in distantia ululat...
 IDS_LEVELFEELING_SNAKEPIT
 Audio serpentes ... ego odi serpentes!
 IDS_LEVELFEELING_SPIDER
@@ -1374,7 +1374,7 @@ IDS_SHOPMSG_JACKPOT
 You won the jackpot!
 IDS_SHOPMSG_THIEF
 Striga, fur!
-IDS_SHOPMSG_TEnniusIST
+IDS_SHOPMSG_TERRORIST
 Rebellis!
 IDS_SHOPMSG_YOULLPAY
 Pro sceleres tu pensatus eris!
@@ -1471,7 +1471,7 @@ Okay
 IDS_GAMEOVER_OHDEAR
 Oh, Dear...
 IDS_GAMEOVER_SOCLOSE
-Marcusime Prope!
+Maxime Prope!
 IDS_GAMEOVER_SNAKEBITE
 Morsus Serpentis
 IDS_GAMEOVER_SPIDERBITE
@@ -1555,17 +1555,17 @@ Ego serpentis felli atri succumbo.
 IDS_GAMEOVERDESC_BAT
 A bat nibbled me to death.
 IDS_GAMEOVERDESC_SPIDER
-I succumbed to a spider bite.
+Ego araneae felli atri succumbo.
 IDS_GAMEOVERDESC_GIANTSPIDER
 Illam erat araneam magnissimam vidi umquam!
 IDS_GAMEOVERDESC_SKELETON
 I was clawed to death by a skeleton.
 IDS_GAMEOVERDESC_SCORPION
-I was stung by a scorpion!
+Punctus scorpione sum!
 IDS_GAMEOVERDESC_CAVEMAN
 Neanderthal percussit me ad mortem.
 IDS_GAMEOVERDESC_SHOPKEEPER
-Illum coponem numquam irritaverim debeo...
+Debeo numquam illum coponem irritaverim ...
 IDS_GAMEOVERDESC_YETI
 Yeti percussit me ad mortem.
 IDS_GAMEOVERDESC_TIKIMAN
@@ -1603,7 +1603,7 @@ Embarrassingly enough, I've been killed by a little alien.
 IDS_GAMEOVERDESC_MAGMAMAN
 I was burned to death by a magma man.
 IDS_GAMEOVERDESC_VLAD
-I confRegulusted Vlad the Impaler and lost.
+I confronted Vlad the Impaler and lost.
 IDS_GAMEOVERDESC_IMP
 I was nibbled to death by a minion of Hell!
 IDS_GAMEOVERDESC_DEVIL
@@ -1657,7 +1657,7 @@ The Spider Pit
 IDS_ARENA_MINES8
 Ladders
 IDS_ARENA_LUSH1
-Tiki TEnnius
+Tiki Terror
 IDS_ARENA_LUSH2
 Treehouses
 IDS_ARENA_LUSH3
@@ -1737,13 +1737,13 @@ Moonbounce II
 IDS_ARENA_SPECIAL8
 Elevators
 IDS_PLAYER_WINS1
-PLAYER 1 WINS!
+LUDANS 1 WINS!
 IDS_PLAYER_WINS2
-PLAYER 2 WINS!
+LUDANS 2 WINS!
 IDS_PLAYER_WINS3
-PLAYER 3 WINS!
+LUDANS 3 WINS!
 IDS_PLAYER_WINS4
-PLAYER 4 WINS!
+LUDANS 4 WINS!
 IDS_NOBODY_WINS
 NOBODY WINS!
 IDS_DMRESULTS_GUIDE
@@ -1758,15 +1758,15 @@ IDS_TRIALNAG3
 Challenge your friends with cooperative multiplayer and deathmatch in 48 unlockable arenas!
 IDS_TRIALNAG4
 Follow Yang to Olmec's Treasure and unravel the many mysteries of Spelunky!
-IDS_Ennius_NOTCONNECTEDPOST
+IDS_ERROR_NOTCONNECTEDPOST
 You are not connected to Xbox LIVE. Your score will not be added to the leaderboards.
-IDS_Ennius_NOTCONNECTEDVIEW
+IDS_ERROR_NOTCONNECTEDVIEW
 You are not connected to Xbox LIVE. Please connect to view leaderboards.
-IDS_Ennius_SIGNEDOUT
+IDS_ERROR_SIGNEDOUT
 A player has signed out or changed gamer profile. You have been returned to the title screen.
-IDS_Ennius_NOTCONNECTEDCONTENT
+IDS_ERROR_NOTCONNECTEDCONTENT
 Sign in to Xbox LIVE to access online content.
-IDS_Ennius_NOTCONNECTEDLOCAL
+IDS_ERROR_NOTCONNECTEDLOCAL
 Sign in to Xbox LIVE to post your score to the leaderboards.
 IDS_WARNING_MULTINOSAVE
 Multiplayer game progress is not saved. Your scores will also not post to the leaderboards.
@@ -1829,53 +1829,53 @@ VERMIS
 IDS_LEVEL_COG
 URBIS AURAE
 IDS_COMPLETED_1_1
-1-1 PERPETRATUM!
+1-1 FACTUM!
 IDS_COMPLETED_1_2
-1-2 PERPETRATUM!
+1-2 FACTUM!
 IDS_COMPLETED_1_3
-1-3 PERPETRATUM!
+1-3 FACTUM!
 IDS_COMPLETED_1_4
-1-4 PERPETRATUM!
+1-4 FACTUM!
 IDS_COMPLETED_2_1
-2-1 PERPETRATUM!
+2-1 FACTUM!
 IDS_COMPLETED_2_2
-2-2 PERPETRATUM!
+2-2 FACTUM!
 IDS_COMPLETED_2_3
-2-3 PERPETRATUM!
+2-3 FACTUM!
 IDS_COMPLETED_2_4
-2-4 PERPETRATUM!
+2-4 FACTUM!
 IDS_COMPLETED_3_1
-3-1 PERPETRATUM!
+3-1 FACTUM!
 IDS_COMPLETED_3_2
-3-2 PERPETRATUM!
+3-2 FACTUM!
 IDS_COMPLETED_3_3
-3-3 PERPETRATUM!
+3-3 FACTUM!
 IDS_COMPLETED_3_4
-3-4 PERPETRATUM!
+3-4 FACTUM!
 IDS_COMPLETED_4_1
-4-1 PERPETRATUM!
+4-1 FACTUM!
 IDS_COMPLETED_4_2
-4-2 PERPETRATUM!
+4-2 FACTUM!
 IDS_COMPLETED_4_3
-4-3 PERPETRATUM!
+4-3 FACTUM!
 IDS_COMPLETED_4_4
-4-4 PERPETRATUM!
+4-4 FACTUM!
 IDS_COMPLETED_5_1
-5-1 PERPETRATUM!
+5-1 FACTUM!
 IDS_COMPLETED_5_2
-5-2 PERPETRATUM!
+5-2 FACTUM!
 IDS_COMPLETED_5_3
-5-3 PERPETRATUM!
+5-3 FACTUM!
 IDS_COMPLETED_MARKET
-VENALICIUM PERPETRATUM!
+VENALICIUM FACTUM!
 IDS_COMPLETED_CASTLE
-MOENE PERPETRATUM!
+MOENE FACTUM!
 IDS_COMPLETED_MOTHERSHIP
 MOTHERSHIP PERPETRATA!
 IDS_COMPLETED_WORM
-VERMIS PERPETRATUM!
+VERMIS FACTUM!
 IDS_COMPLETED_COG
-URBIS AURAE PERPETRATUM!
+URBIS AURAE FACTUM!
 IDS_LEVEL_ENTRANCE
 ENTRANCE
 IDS_LABEL_LOOT
@@ -1888,7 +1888,7 @@ IDS_DEATHMATCH_STANDINGS
 PLAYER STANDINGS
 IDS_DEATHMATCH_SELECTARENA
 @A Select Arena
-IDS_DEATHMATCH_RANDOctaviusENA
+IDS_DEATHMATCH_RANDOMARENA
 @X Random Arena
 IDS_DEATHMATCH_BEGINMATCH
 @A Begin Match
@@ -2110,7 +2110,7 @@ IDS_GUIDE_SELECTCHAR
 @A Electere Personam
 IDS_SCEPTRE_FITS
 The sceptre fits, but nothing is happening!
-IDS_WRegulusG_KEY
+IDS_WRONG_KEY
 Did you really bring the gold key to 4-2? Either The Tunnelman, or the gold chest in the mines wants that key.
 IDS_ANUBIS_WARNING
 Mortem sacrilego!
@@ -2132,21 +2132,21 @@ IDS_WARNING_UNSAVED
 Nonne? Progressus non scribatus disperibit.
 IDS_WARNING_NOTSAVED
 Are you sure? Scores will not be saved.
-IDS_Ennius_CORRUPTDLC
+IDS_ERROR_CORRUPTDLC
 The DLC could not be loaded and may be corrupt. Please redownload it from the Xbox LIVE Marketplace.
-IDS_Ennius_WRITING
-There was an Ennius writing to the leaderboards. Try again?
-IDS_Ennius_NEWSTORAGE
+IDS_ERROR_WRITING
+There was an error writing to the leaderboards. Try again?
+IDS_ERROR_NEWSTORAGE
 The storage device has been removed. Would you like to select a new storage device?
-IDS_Ennius_CORRUPTSAVE
+IDS_ERROR_CORRUPTSAVE
 The save file appears to be damaged and cannot be loaded. Would you like to overwrite it with a new save file?
-IDS_Ennius_BADSTORAGE
+IDS_ERROR_BADSTORAGE
 The storage device appears to be damaged and cannot be accessed. Would you like to select another storage device?
-IDS_Ennius_NOTSAVED
+IDS_ERROR_NOTSAVED
 Your game will not be saved.
-IDS_Ennius_CANTSAVED
+IDS_ERROR_CANTSAVED
 The game was unable to save. Would you like to select a different storage device?
-IDS_Ennius_FULLDEVICE
+IDS_ERROR_FULLDEVICE
 The destination device is full. Would you like to select a different storage device?
 IDS_GUIDE_YES
 @A Sic
@@ -2292,9 +2292,9 @@ IDS_GUIDE_UNLOCKFULL
 @A Unlock Full Game
 IDS_GUIDE_GAMERCARD
 @A Gamer Card
-IDS_Ennius_TRIALACHIEVEMENT
+IDS_ERROR_TRIALACHIEVEMENT
 You have earned an Achievement! Upgrade to the full version now to unlock it.
-IDS_Ennius_FAILTOSIGNIN
+IDS_ERROR_FAILTOSIGNIN
 You must be signed into a gamer profile to play Spelunky.
 IDS_MAINMENU_DOWNLOADCONTENT
 Download Content
@@ -2322,7 +2322,7 @@ IDS_TRIALNAG1B
 Thanks for playing Spelunky! We hope you had fun!
 IDS_TRIALNAG2B
 This is only the trial version of the game... get the full version now and test your skills!
-IDS_Ennius_ACHIEVEMENT_FAIL
+IDS_ERROR_ACHIEVEMENT_FAIL
 The game failed to write to your gamer profile. An Achievement could not be saved. Try again?
 IDS_PAUSED
 INTERMISSUS
@@ -2359,30 +2359,30 @@ Buy Mystery Box
 IDS_LEVEL_OLMEC
 LATIUBULUM OLMECI
 IDS_COMPLETED_OLMEC
-LATIUBULUM PERPETRATUM!
+LATIUBULUM FACTUM!
 IDS_LEVEL_YAMA
 SOLIUM YAMAE
 IDS_PAUSED_ENDDEATHMATCH
 End Deathmatch
 IDS_WARNING_DEATHMATCHBOTS
 Deathmatch without bots requires at least two players to begin.
-IDS_Ennius_AVASSET_FAIL
+IDS_ERROR_AVASSET_FAIL
 The game failed to write to your gamer profile. An Avatar Award could not be saved. Try again?
-IDS_Ennius_TRIALAVASSET
+IDS_ERROR_TRIALAVASSET
 You have earned an Avatar Award! Upgrade to the full version now to unlock it.
 IDS_WARNING_SAVEOVERWRITE
 Do you really want to overwrite your saved game? Your previous save will be lost!
 IDS_PLAYERPROFILE_SPECIALWINS
 Special Wins:
-IDS_Ennius_RESET_SAVE
+IDS_ERROR_RESET_SAVE
 This will reset your save game file, including all statistics and unlocked shortcuts, journal entries, and characters. Do you really want to do this?
-IDS_Ennius_RESET_SAVE_2
+IDS_ERROR_RESET_SAVE_2
 Are you really sure? This is your final warning...
 IDS_USER_DETAILS
 @A User Details
 IDS_SCORE_DETAILS
 @A Score Details
-IDS_Ennius_LB_READFAIL
+IDS_ERROR_LB_READFAIL
 The leaderboard could not be read.
 IDS_PREV_DAILY
 Previous Daily
@@ -2475,15 +2475,15 @@ Deathmatch Arenas Unlocked
 IDS_GAMEOVER_VIEW_LEADERBOARD
 @A View Leaderboard
 IDS_LEADERBOARDS_PLAYER
-PLAYER
+LUDANS
 IDS_CHARSELECT_P1
-Player 1
+Ludans I
 IDS_CHARSELECT_P2
-Player 2
+Ludans II
 IDS_CHARSELECT_P3
-Player 3
+Ludans III
 IDS_CHARSELECT_P4
-Player 4
+Ludans IV
 IDS_GRAPHICS
 GRAPHICS
 IDS_HNO_GRAPHICS
