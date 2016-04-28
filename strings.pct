@@ -143,11 +143,11 @@ GAMERTAG
 IDS_LEADERBOARDS_CHARACTER
 PERSONA
 IDS_LEADERBOARDS_LEVEL
-LEVEL
+GRADUM
 IDS_LEADERBOARDS_SCORE
 PRAEDA
 IDS_LEADERBOARDS_FRIENDS
-AMICI
+Amici
 IDS_LEADERBOARDS_MYSCORES
 My Scores
 IDS_LEADERBOARDS_OVERALL
@@ -773,473 +773,473 @@ Iuvenalis
 IDS_SHOPKEEPER_NAME26
 Ziggius
 IDS_SHOPWELCOME0A
-Welcome to Augustus's General Store!
+Salve ad Tabernam Generalem Augusti!
 IDS_SHOPWELCOME0B
-Welcome to Augustus's Specialty Shop!
+Salve ad Tabernam Specialum Augusti!
 IDS_SHOPWELCOME0C
-Welcome to Augustus's Clothing Shop!
+Salve ad Tabernam Tegimentis Augusti!
 IDS_SHOPWELCOME0D
-Welcome to Augustus's Bomb Shop!
+Salve ad Tabernam Bombarum Augusti!
 IDS_SHOPWELCOME0E
-Welcome to Augustus's Weapon Shop!
+Salve ad Tabernam Ferrorum Augusti!
 IDS_SHOPWELCOME0F
-Welcome to Augustus's Kissing Parlor!
+Salve ad Lustrum Augusti!
 IDS_SHOPWELCOME0G
-Welcome to Augustus's Hired Hands!
+Salve ad Catastam Augusti!
 IDS_SHOPWELCOME0H
-Welcome to Augustus's Wheel of Prizes!
+Salve ad Aleatorium Augusti!
 IDS_SHOPWELCOME0I
-Welcome to Augustus's General Store!
+Salve ad Tabernam Generalem Augusti!
 IDS_SHOPWELCOME1A
-Welcome to Brutus's General Store!
+Salve ad Tabernam Generalem Bruti!
 IDS_SHOPWELCOME1B
-Welcome to Brutus's Specialty Shop!
+Salve ad Tabernam Specialum Bruti!
 IDS_SHOPWELCOME1C
-Welcome to Brutus's Clothing Shop!
+Salve ad Tabernam Tegimentis Bruti!
 IDS_SHOPWELCOME1D
-Welcome to Brutus's Bomb Shop!
+Salve ad Tabernam Bombarum Bruti!
 IDS_SHOPWELCOME1E
-Welcome to Brutus's Weapon Shop!
+Salve ad Tabernam Ferrorum Bruti!
 IDS_SHOPWELCOME1F
-Welcome to Brutus's Kissing Parlor!
+Salve ad Lustrum Bruti!
 IDS_SHOPWELCOME1G
-Welcome to Brutus's Hired Hands!
+Salve ad Catastam Bruti!
 IDS_SHOPWELCOME1H
-Welcome to Brutus's Wheel of Prizes!
+Salve ad Aleatorium Bruti!
 IDS_SHOPWELCOME1I
-Welcome to Brutus's General Store!
+Salve ad Tabernam Generalem Bruti!
 IDS_SHOPWELCOME2A
-Welcome to Cassius's General Store!
+Salve ad Tabernam Generalem Cassii!
 IDS_SHOPWELCOME2B
-Welcome to Cassius's Specialty Shop!
+Salve ad Tabernam Specialum Cassii!
 IDS_SHOPWELCOME2C
-Welcome to Cassius's Clothing Shop!
+Salve ad Tabernam Tegimentis Cassii!
 IDS_SHOPWELCOME2D
-Welcome to Cassius's Bomb Shop!
+Salve ad Tabernam Bombarum Cassii!
 IDS_SHOPWELCOME2E
-Welcome to Cassius's Weapon Shop!
+Salve ad Tabernam Ferrorum Cassii!
 IDS_SHOPWELCOME2F
-Welcome to Cassius's Kissing Parlor!
+Salve ad Lustrum Cassii!
 IDS_SHOPWELCOME2G
-Welcome to Cassius's Hired Hands!
+Salve ad Catastam Cassii!
 IDS_SHOPWELCOME2H
-Welcome to Cassius's Wheel of Prizes!
+Salve ad Aleatorium Cassii!
 IDS_SHOPWELCOME2I
-Welcome to Cassius's General Store!
+Salve ad Tabernam Generalem Cassii!
 IDS_SHOPWELCOME3A
-Welcome to Decimus's General Store!
+Salve ad Tabernam Generalem Decimi!
 IDS_SHOPWELCOME3B
-Welcome to Decimus's Specialty Shop!
+Salve ad Tabernam Specialum Decimi!
 IDS_SHOPWELCOME3C
-Welcome to Decimus's Clothing Shop!
+Salve ad Tabernam Tegimentis Decimi!
 IDS_SHOPWELCOME3D
-Welcome to Decimus's Bomb Shop!
+Salve ad Tabernam Bombarum Decimi!
 IDS_SHOPWELCOME3E
-Welcome to Decimus's Weapon Shop!
+Salve ad Tabernam Ferrorum Decimi!
 IDS_SHOPWELCOME3F
-Welcome to Decimus's Kissing Parlor!
+Salve ad Lustrum Decimi!
 IDS_SHOPWELCOME3G
-Welcome to Decimus's Hired Hands!
+Salve ad Catastam Decimi!
 IDS_SHOPWELCOME3H
-Welcome to Decimus's Wheel of Prizes!
+Salve ad Aleatorium Decimi!
 IDS_SHOPWELCOME3I
-Welcome to Decimus's General Store!
+Salve ad Tabernam Generalem Decimi!
 IDS_SHOPWELCOME4A
-Welcome to Ennius's General Store!
+Salve ad Tabernam Generalem Ennii!
 IDS_SHOPWELCOME4B
-Welcome to Ennius's Specialty Shop!
+Salve ad Tabernam Specialum Ennii!
 IDS_SHOPWELCOME4C
-Welcome to Ennius's Clothing Shop!
+Salve ad Tabernam Tegimentis Ennii!
 IDS_SHOPWELCOME4D
-Welcome to Ennius's Bomb Shop!
+Salve ad Tabernam Bombarum Ennii!
 IDS_SHOPWELCOME4E
-Welcome to Ennius's Weapon Shop!
+Salve ad Tabernam Ferrorum Ennii!
 IDS_SHOPWELCOME4F
-Welcome to Ennius's Kissing Parlor!
+Salve ad Lustrum Ennii!
 IDS_SHOPWELCOME4G
-Welcome to Ennius's Hired Hands!
+Salve ad Catastam Ennii!
 IDS_SHOPWELCOME4H
-Welcome to Ennius's Wheel of Prizes!
+Salve ad Aleatorium Ennii!
 IDS_SHOPWELCOME4I
-Welcome to Ennius's General Store!
+Salve ad Tabernam Generalem Ennii!
 IDS_SHOPWELCOME5A
-Welcome to Faustus's General Store!
+Salve ad Tabernam Generalem Fausti!
 IDS_SHOPWELCOME5B
-Welcome to Faustus's Specialty Shop!
+Salve ad Tabernam Specialum Fausti!
 IDS_SHOPWELCOME5C
-Welcome to Faustus's Clothing Shop!
+Salve ad Tabernam Tegimentis Fausti!
 IDS_SHOPWELCOME5D
-Welcome to Faustus's Bomb Shop!
+Salve ad Tabernam Bombarum Fausti!
 IDS_SHOPWELCOME5E
-Welcome to Faustus's Weapon Shop!
+Salve ad Tabernam Ferrorum Fausti!
 IDS_SHOPWELCOME5F
-Welcome to Faustus's Kissing Parlor!
+Salve ad Lustrum Fausti!
 IDS_SHOPWELCOME5G
-Welcome to Faustus's Hired Hands!
+Salve ad Catastam Fausti!
 IDS_SHOPWELCOME5H
-Welcome to Faustus's Wheel of Prizes!
+Salve ad Aleatorium Fausti!
 IDS_SHOPWELCOME5I
-Welcome to Faustus's General Store!
+Salve ad Tabernam Generalem Fausti!
 IDS_SHOPWELCOME6A
-Welcome to Gallus's General Store!
+Salve ad Tabernam Generalem Galli!
 IDS_SHOPWELCOME6B
-Welcome to Gallus's Specialty Shop!
+Salve ad Tabernam Specialum Galli!
 IDS_SHOPWELCOME6C
-Welcome to Gallus's Clothing Shop!
+Salve ad Tabernam Tegimentis Galli!
 IDS_SHOPWELCOME6D
-Welcome to Gallus's Bomb Shop!
+Salve ad Tabernam Bombarum Galli!
 IDS_SHOPWELCOME6E
-Welcome to Gallus's Weapon Shop!
+Salve ad Tabernam Ferrorum Galli!
 IDS_SHOPWELCOME6F
-Welcome to Gallus's Kissing Parlor!
+Salve ad Lustrum Galli!
 IDS_SHOPWELCOME6G
-Welcome to Gallus's Hired Hands!
+Salve ad Catastam Galli!
 IDS_SHOPWELCOME6H
-Welcome to Gallus's Wheel of Prizes!
+Salve ad Aleatorium Galli!
 IDS_SHOPWELCOME6I
-Welcome to Gallus's General Store!
+Salve ad Tabernam Generalem Galli!
 IDS_SHOPWELCOME7A
-Welcome to Horatius's General Store!
+Salve ad Tabernam Generalem Horatii!
 IDS_SHOPWELCOME7B
-Welcome to Horatius's Specialty Shop!
+Salve ad Tabernam Specialum Horatii!
 IDS_SHOPWELCOME7C
-Welcome to Horatius's Clothing Shop!
+Salve ad Tabernam Tegimentis Horatii!
 IDS_SHOPWELCOME7D
-Welcome to Horatius's Bomb Shop!
+Salve ad Tabernam Bombarum Horatii!
 IDS_SHOPWELCOME7E
-Welcome to Horatius's Weapon Shop!
+Salve ad Tabernam Ferrorum Horatii!
 IDS_SHOPWELCOME7F
-Welcome to Horatius's Kissing Parlor!
+Salve ad Lustrum Horatii!
 IDS_SHOPWELCOME7G
-Welcome to Horatius's Hired Hands!
+Salve ad Catastam Horatii!
 IDS_SHOPWELCOME7H
-Welcome to Horatius's Wheel of Prizes!
+Salve ad Aleatorium Horatii!
 IDS_SHOPWELCOME7I
-Welcome to Horatius's General Store!
+Salve ad Tabernam Generalem Horatii!
 IDS_SHOPWELCOME8A
-Welcome to Ignotus's General Store!
+Salve ad Tabernam Generalem Ignoti!
 IDS_SHOPWELCOME8B
-Welcome to Ignotus's Specialty Shop!
+Salve ad Tabernam Specialum Ignoti!
 IDS_SHOPWELCOME8C
-Welcome to Ignotus's Clothing Shop!
+Salve ad Tabernam Tegimentis Ignoti!
 IDS_SHOPWELCOME8D
-Welcome to Ignotus's Bomb Shop!
+Salve ad Tabernam Bombarum Ignoti!
 IDS_SHOPWELCOME8E
-Welcome to Ignotus's Weapon Shop!
+Salve ad Tabernam Ferrorum Ignoti!
 IDS_SHOPWELCOME8F
-Welcome to Ignotus's Kissing Parlor!
+Salve ad Lustrum Ignoti!
 IDS_SHOPWELCOME8G
-Welcome to Ignotus's Hired Hands!
+Salve ad Catastam Ignoti!
 IDS_SHOPWELCOME8H
-Welcome to Ignotus's Wheel of Prizes!
+Salve ad Aleatorium Ignoti!
 IDS_SHOPWELCOME8I
-Welcome to Ignotus's General Store!
+Salve ad Tabernam Generalem Ignoti!
 IDS_SHOPWELCOME9A
-Welcome to Julius's General Store!
+Salve ad Tabernam Generalem Julii!
 IDS_SHOPWELCOME9B
-Welcome to Julius's Specialty Shop!
+Salve ad Tabernam Specialum Julii!
 IDS_SHOPWELCOME9C
-Welcome to Julius's Clothing Shop!
+Salve ad Tabernam Tegimentis Julii!
 IDS_SHOPWELCOME9D
-Welcome to Julius's Bomb Shop!
+Salve ad Tabernam Bombarum Julii!
 IDS_SHOPWELCOME9E
-Welcome to Julius's Weapon Shop!
+Salve ad Tabernam Ferrorum Julii!
 IDS_SHOPWELCOME9F
-Welcome to Julius's Kissing Parlor!
+Salve ad Lustrum Julii!
 IDS_SHOPWELCOME9G
-Welcome to Julius's Hired Hands!
+Salve ad Catastam Julii!
 IDS_SHOPWELCOME9H
-Welcome to Julius's Wheel of Prizes!
+Salve ad Aleatorium Julii!
 IDS_SHOPWELCOME9I
-Welcome to Julius's General Store!
+Salve ad Tabernam Generalem Julii!
 IDS_SHOPWELCOME10A
-Welcome to Klaudius's General Store!
+Salve ad Tabernam Generalem Klaudii!
 IDS_SHOPWELCOME10B
-Welcome to Klaudius's Specialty Shop!
+Salve ad Tabernam Specialum Klaudii!
 IDS_SHOPWELCOME10C
-Welcome to Klaudius's Clothing Shop!
+Salve ad Tabernam Tegimentis Klaudii!
 IDS_SHOPWELCOME10D
-Welcome to Klaudius's Bomb Shop!
+Salve ad Tabernam Bombarum Klaudii!
 IDS_SHOPWELCOME10E
-Welcome to Klaudius's Weapon Shop!
+Salve ad Tabernam Ferrorum Klaudii!
 IDS_SHOPWELCOME10F
-Welcome to Klaudius's Kissing Parlor!
+Salve ad Lustrum Klaudii!
 IDS_SHOPWELCOME10G
-Welcome to Klaudius's Hired Hands!
+Salve ad Catastam Klaudii!
 IDS_SHOPWELCOME10H
-Welcome to Klaudius's Wheel of Prizes!
+Salve ad Aleatorium Klaudii!
 IDS_SHOPWELCOME10I
-Welcome to Klaudius's General Store!
+Salve ad Tabernam Generalem Klaudii!
 IDS_SHOPWELCOME11A
-Welcome to Lucredius's General Store!
+Salve ad Tabernam Generalem Lucredii!
 IDS_SHOPWELCOME11B
-Welcome to Lucredius's Specialty Shop!
+Salve ad Tabernam Specialum Lucredii!
 IDS_SHOPWELCOME11C
-Welcome to Lucredius's Clothing Shop!
+Salve ad Tabernam Tegimentis Lucredii!
 IDS_SHOPWELCOME11D
-Welcome to Lucredius's Bomb Shop!
+Salve ad Tabernam Bombarum Lucredii!
 IDS_SHOPWELCOME11E
-Welcome to Lucredius's Weapon Shop!
+Salve ad Tabernam Ferrorum Lucredii!
 IDS_SHOPWELCOME11F
-Welcome to Lucredius's Kissing Parlor!
+Salve ad Lustrum Lucredii!
 IDS_SHOPWELCOME11G
-Welcome to Lucredius's Hired Hands!
+Salve ad Catastam Lucredii!
 IDS_SHOPWELCOME11H
-Welcome to Lucredius's Wheel of Prizes!
+Salve ad Aleatorium Lucredii!
 IDS_SHOPWELCOME11I
-Welcome to Lucredius's General Store!
+Salve ad Tabernam Generalem Lucredii!
 IDS_SHOPWELCOME12A
-Welcome to Marcus's General Store!
+Salve ad Tabernam Generalem Marci!
 IDS_SHOPWELCOME12B
-Welcome to Marcus's Specialty Shop!
+Salve ad Tabernam Specialum Marci!
 IDS_SHOPWELCOME12C
-Welcome to Marcus's Clothing Shop!
+Salve ad Tabernam Tegimentis Marci!
 IDS_SHOPWELCOME12D
-Welcome to Marcus's Bomb Shop!
+Salve ad Tabernam Bombarum Marci!
 IDS_SHOPWELCOME12E
-Welcome to Marcus's Weapon Shop!
+Salve ad Tabernam Ferrorum Marci!
 IDS_SHOPWELCOME12F
-Welcome to Marcus's Kissing Parlor!
+Salve ad Lustrum Marci!
 IDS_SHOPWELCOME12G
-Welcome to Marcus's Hired Hands!
+Salve ad Catastam Marci!
 IDS_SHOPWELCOME12H
-Welcome to Marcus's Wheel of Prizes!
+Salve ad Aleatorium Marci!
 IDS_SHOPWELCOME12I
-Welcome to Marcus's General Store!
+Salve ad Tabernam Generalem Marci!
 IDS_SHOPWELCOME13A
-Welcome to Nero's General Store!
+Salve ad Tabernam Generalem Neronis!
 IDS_SHOPWELCOME13B
-Welcome to Nero's Specialty Shop!
+Salve ad Tabernam Specialum Neronis!
 IDS_SHOPWELCOME13C
-Welcome to Nero's Clothing Shop!
+Salve ad Tabernam Tegimentis Neronis!
 IDS_SHOPWELCOME13D
-Welcome to Nero's Bomb Shop!
+Salve ad Tabernam Bombarum Neronis!
 IDS_SHOPWELCOME13E
-Welcome to Nero's Weapon Shop!
+Salve ad Tabernam Ferrorum Neronis!
 IDS_SHOPWELCOME13F
-Welcome to Nero's Kissing Parlor!
+Salve ad Lustrum Neronis!
 IDS_SHOPWELCOME13G
-Welcome to Nero's Hired Hands!
+Salve ad Catastam Neronis!
 IDS_SHOPWELCOME13H
-Welcome to Nero's Wheel of Prizes!
+Salve ad Aleatorium Neronis!
 IDS_SHOPWELCOME13I
-Welcome to Nero's General Store!
+Salve ad Tabernam Generalem Neronis!
 IDS_SHOPWELCOME14A
-Welcome to Octavius's General Store!
+Salve ad Tabernam Generalem Octavii!
 IDS_SHOPWELCOME14B
-Welcome to Octavius's Specialty Shop!
+Salve ad Tabernam Specialum Octavii!
 IDS_SHOPWELCOME14C
-Welcome to Octavius's Clothing Shop!
+Salve ad Tabernam Tegimentis Octavii!
 IDS_SHOPWELCOME14D
-Welcome to Octavius's Bomb Shop!
+Salve ad Tabernam Bombarum Octavii!
 IDS_SHOPWELCOME14E
-Welcome to Octavius's Weapon Shop!
+Salve ad Tabernam Ferrorum Octavii!
 IDS_SHOPWELCOME14F
-Welcome to Octavius's Kissing Parlor!
+Salve ad Lustrum Octavii!
 IDS_SHOPWELCOME14G
-Welcome to Octavius's Hired Hands!
+Salve ad Catastam Octavii!
 IDS_SHOPWELCOME14H
-Welcome to Octavius's Wheel of Prizes!
+Salve ad Aleatorium Octavii!
 IDS_SHOPWELCOME14I
-Welcome to Octavius's General Store!
+Salve ad Tabernam Generalem Octavii!
 IDS_SHOPWELCOME15A
-Welcome to Publius's General Store!
+Salve ad Tabernam Generalem Publii!
 IDS_SHOPWELCOME15B
-Welcome to Publius's Specialty Shop!
+Salve ad Tabernam Specialum Publii!
 IDS_SHOPWELCOME15C
-Welcome to Publius's Clothing Shop!
+Salve ad Tabernam Tegimentis Publii!
 IDS_SHOPWELCOME15D
-Welcome to Publius's Bomb Shop!
+Salve ad Tabernam Bombarum Publii!
 IDS_SHOPWELCOME15E
-Welcome to Publius's Weapon Shop!
+Salve ad Tabernam Ferrorum Publii!
 IDS_SHOPWELCOME15F
-Welcome to Publius's Kissing Parlor!
+Salve ad Lustrum Publii!
 IDS_SHOPWELCOME15G
-Welcome to Publius's Hired Hands!
+Salve ad Catastam Publii!
 IDS_SHOPWELCOME15H
-Welcome to Publius's Wheel of Prizes!
+Salve ad Aleatorium Publii!
 IDS_SHOPWELCOME15I
-Welcome to Publius's General Store!
+Salve ad Tabernam Generalem Publii!
 IDS_SHOPWELCOME16A
-Welcome to Quintus's General Store!
+Salve ad Tabernam Generalem Quinti!
 IDS_SHOPWELCOME16B
-Welcome to Quintus's Specialty Shop!
+Salve ad Tabernam Specialum Quinti!
 IDS_SHOPWELCOME16C
-Welcome to Quintus's Clothing Shop!
+Salve ad Tabernam Tegimentis Quinti!
 IDS_SHOPWELCOME16D
-Welcome to Quintus's Bomb Shop!
+Salve ad Tabernam Bombarum Quinti!
 IDS_SHOPWELCOME16E
-Welcome to Quintus's Weapon Shop!
+Salve ad Tabernam Ferrorum Quinti!
 IDS_SHOPWELCOME16F
-Welcome to Quintus's Kissing Parlor!
+Salve ad Lustrum Quinti!
 IDS_SHOPWELCOME16G
-Welcome to Quintus's Hired Hands!
+Salve ad Catastam Quinti!
 IDS_SHOPWELCOME16H
-Welcome to Quintus's Wheel of Prizes!
+Salve ad Aleatorium Quinti!
 IDS_SHOPWELCOME16I
-Welcome to Quintus's General Store!
+Salve ad Tabernam Generalem Quinti!
 IDS_SHOPWELCOME17A
-Welcome to Regulus's General Store!
+Salve ad Tabernam Generalem Reguli!
 IDS_SHOPWELCOME17B
-Welcome to Regulus's Specialty Shop!
+Salve ad Tabernam Specialum Reguli!
 IDS_SHOPWELCOME17C
-Welcome to Regulus's Clothing Shop!
+Salve ad Tabernam Tegimentis Reguli!
 IDS_SHOPWELCOME17D
-Welcome to Regulus's Bomb Shop!
+Salve ad Tabernam Bombarum Reguli!
 IDS_SHOPWELCOME17E
-Welcome to Regulus's Weapon Shop!
+Salve ad Tabernam Ferrorum Reguli!
 IDS_SHOPWELCOME17F
-Welcome to Regulus's Kissing Parlor!
+Salve ad Lustrum Reguli!
 IDS_SHOPWELCOME17G
-Welcome to Regulus's Hired Hands!
+Salve ad Catastam Reguli!
 IDS_SHOPWELCOME17H
-Welcome to Regulus's Wheel of Prizes!
+Salve ad Aleatorium Reguli!
 IDS_SHOPWELCOME17I
-Welcome to Regulus's General Store!
+Salve ad Tabernam Generalem Reguli!
 IDS_SHOPWELCOME18A
-Welcome to Seneca's General Store!
+Salve ad Tabernam Generalem Senecae!
 IDS_SHOPWELCOME18B
-Welcome to Seneca's Specialty Shop!
+Salve ad Tabernam Specialum Senecae!
 IDS_SHOPWELCOME18C
-Welcome to Seneca's Clothing Shop!
+Salve ad Tabernam Tegimentis Senecae!
 IDS_SHOPWELCOME18D
-Welcome to Seneca's Bomb Shop!
+Salve ad Tabernam Bombarum Senecae!
 IDS_SHOPWELCOME18E
-Welcome to Seneca's Weapon Shop!
+Salve ad Tabernam Ferrorum Senecae!
 IDS_SHOPWELCOME18F
-Welcome to Seneca's Kissing Parlor!
+Salve ad Lustrum Senecae!
 IDS_SHOPWELCOME18G
-Welcome to Seneca's Hired Hands!
+Salve ad Catastam Senecae!
 IDS_SHOPWELCOME18H
-Welcome to Seneca's Wheel of Prizes!
+Salve ad Aleatorium Senecae!
 IDS_SHOPWELCOME18I
-Welcome to Seneca's General Store!
+Salve ad Tabernam Generalem Senecae!
 IDS_SHOPWELCOME19A
-Welcome to Tiberius's General Store!
+Salve ad Tabernam Generalem Tiberii!
 IDS_SHOPWELCOME19B
-Welcome to Tiberius's Specialty Shop!
+Salve ad Tabernam Specialum Tiberii!
 IDS_SHOPWELCOME19C
-Welcome to Tiberius's Clothing Shop!
+Salve ad Tabernam Tegimentis Tiberii!
 IDS_SHOPWELCOME19D
-Welcome to Tiberius's Bomb Shop!
+Salve ad Tabernam Bombarum Tiberii!
 IDS_SHOPWELCOME19E
-Welcome to Tiberius's Weapon Shop!
+Salve ad Tabernam Ferrorum Tiberii!
 IDS_SHOPWELCOME19F
-Welcome to Tiberius's Kissing Parlor!
+Salve ad Lustrum Tiberii!
 IDS_SHOPWELCOME19G
-Welcome to Tiberius's Hired Hands!
+Salve ad Catastam Tiberii!
 IDS_SHOPWELCOME19H
-Welcome to Tiberius's Wheel of Prizes!
+Salve ad Aleatorium Tiberii!
 IDS_SHOPWELCOME19I
-Welcome to Tiberius's General Store!
+Salve ad Tabernam Generalem Tiberii!
 IDS_SHOPWELCOME20A
-Welcome to Vinicius's General Store!
+Salve ad Tabernam Generalem Vinicii!
 IDS_SHOPWELCOME20B
-Welcome to Vinicius's Specialty Shop!
+Salve ad Tabernam Specialum Vinicii!
 IDS_SHOPWELCOME20C
-Welcome to Vinicius's Clothing Shop!
+Salve ad Tabernam Tegimentis Vinicii!
 IDS_SHOPWELCOME20D
-Welcome to Vinicius's Bomb Shop!
+Salve ad Tabernam Bombarum Vinicii!
 IDS_SHOPWELCOME20E
-Welcome to Vinicius's Weapon Shop!
+Salve ad Tabernam Ferrorum Vinicii!
 IDS_SHOPWELCOME20F
-Welcome to Vinicius's Kissing Parlor!
+Salve ad Lustrum Vinicii!
 IDS_SHOPWELCOME20G
-Welcome to Vinicius's Hired Hands!
+Salve ad Catastam Vinicii!
 IDS_SHOPWELCOME20H
-Welcome to Vinicius's Wheel of Prizes!
+Salve ad Aleatorium Vinicii!
 IDS_SHOPWELCOME20I
-Welcome to Vinicius's General Store!
+Salve ad Tabernam Generalem Vinicii!
 IDS_SHOPWELCOME21A
-Welcome to Virgilius's General Store!
+Salve ad Tabernam Generalem Virgilii!
 IDS_SHOPWELCOME21B
-Welcome to Virgilius's Specialty Shop!
+Salve ad Tabernam Specialum Virgilii!
 IDS_SHOPWELCOME21C
-Welcome to Virgilius's Clothing Shop!
+Salve ad Tabernam Tegimentis Virgilii!
 IDS_SHOPWELCOME21D
-Welcome to Virgilius's Bomb Shop!
+Salve ad Tabernam Bombarum Virgilii!
 IDS_SHOPWELCOME21E
-Welcome to Virgilius's Weapon Shop!
+Salve ad Tabernam Ferrorum Virgilii!
 IDS_SHOPWELCOME21F
-Welcome to Virgilius's Kissing Parlor!
+Salve ad Lustrum Virgilii!
 IDS_SHOPWELCOME21G
-Welcome to Virgilius's Hired Hands!
+Salve ad Catastam Virgilii!
 IDS_SHOPWELCOME21H
-Welcome to Virgilius's Wheel of Prizes!
+Salve ad Aleatorium Virgilii!
 IDS_SHOPWELCOME21I
-Welcome to Virgilius's General Store!
+Salve ad Tabernam Generalem Virgilii!
 IDS_SHOPWELCOME22A
-Welcome to Valens's General Store!
+Salve ad Tabernam Generalem Vinicii!
 IDS_SHOPWELCOME22B
-Welcome to Valens's Specialty Shop!
+Salve ad Tabernam Specialum Vinicii!
 IDS_SHOPWELCOME22C
-Welcome to Valens's Clothing Shop!
+Salve ad Tabernam Tegimentis Vinicii!
 IDS_SHOPWELCOME22D
-Welcome to Valens's Bomb Shop!
+Salve ad Tabernam Bombarum Vinicii!
 IDS_SHOPWELCOME22E
-Welcome to Valens's Weapon Shop!
+Salve ad Tabernam Ferrorum Vinicii!
 IDS_SHOPWELCOME22F
-Welcome to Valens's Kissing Parlor!
+Salve ad Lustrum Vinicii!
 IDS_SHOPWELCOME22G
-Welcome to Valens's Hired Hands!
+Salve ad Catastam Vinicii!
 IDS_SHOPWELCOME22H
-Welcome to Valens's Wheel of Prizes!
+Salve ad Aleatorium Vinicii!
 IDS_SHOPWELCOME22I
-Welcome to Valens's General Store!
+Salve ad Tabernam Generalem Vinicii!
 IDS_SHOPWELCOME23A
-Welcome to Ho Xe's General Store!
+Salve ad Tabernam Generalem Pseudoli!
 IDS_SHOPWELCOME23B
-Welcome to Ho Xe's Specialty Shop!
+Salve ad Tabernam Specialum Pseudoli!
 IDS_SHOPWELCOME23C
-Welcome to Ho Xe's Clothing Shop!
+Salve ad Tabernam Tegimentis Pseudoli!
 IDS_SHOPWELCOME23D
-Welcome to Ho Xe's Bomb Shop!
+Salve ad Tabernam Bombarum Pseudoli!
 IDS_SHOPWELCOME23E
-Welcome to Ho Xe's Weapon Shop!
+Salve ad Tabernam Ferrorum Pseudoli!
 IDS_SHOPWELCOME23F
-Welcome to Ho Xe's Kissing Parlor!
+Salve ad Lustrum Pseudoli!
 IDS_SHOPWELCOME23G
-Welcome to Ho Xe's Hired Hands!
+Salve ad Catastam Pseudoli!
 IDS_SHOPWELCOME23H
-Welcome to Ho Xe's Wheel of Prizes!
+Salve ad Aleatorium Pseudoli!
 IDS_SHOPWELCOME23I
-Welcome to Ho Xe's General Store!
+Salve ad Tabernam Generalem Pseudoli!
 IDS_SHOPWELCOME24A
-Welcome to Iuvenalis's General Store!
+Salve ad Tabernam Generalem Iustiani!
 IDS_SHOPWELCOME24B
-Welcome to Iuvenalis's Specialty Shop!
+Salve ad Tabernam Specialum Iustiani!
 IDS_SHOPWELCOME24C
-Welcome to Iuvenalis's Clothing Shop!
+Salve ad Tabernam Tegimentis Iustiani!
 IDS_SHOPWELCOME24D
-Welcome to Iuvenalis's Bomb Shop!
+Salve ad Tabernam Bombarum Iustiani!
 IDS_SHOPWELCOME24E
-Welcome to Iuvenalis's Weapon Shop!
+Salve ad Tabernam Ferrorum Iustiani!
 IDS_SHOPWELCOME24F
-Welcome to Iuvenalis's Kissing Parlor!
+Salve ad Lustrum Iustiani!
 IDS_SHOPWELCOME24G
-Welcome to Iuvenalis's Hired Hands!
+Salve ad Catastam Iustiani!
 IDS_SHOPWELCOME24H
-Welcome to Iuvenalis's Wheel of Prizes!
+Salve ad Aleatorium Iustiani!
 IDS_SHOPWELCOME24I
-Welcome to Iuvenalis's General Store!
+Salve ad Tabernam Generalem Iustiani!
 IDS_SHOPWELCOME25A
-Welcome to Ziggius's General Store!
+Salve ad Tabernam Generalem Ziggii!
 IDS_SHOPWELCOME25B
-Welcome to Ziggius's Specialty Shop!
+Salve ad Tabernam Specialum Ziggii!
 IDS_SHOPWELCOME25C
-Welcome to Ziggius's Clothing Shop!
+Salve ad Tabernam Tegimentis Ziggii!
 IDS_SHOPWELCOME25D
-Welcome to Ziggius's Bomb Shop!
+Salve ad Tabernam Bombarum Ziggii!
 IDS_SHOPWELCOME25E
-Welcome to Ziggius's Weapon Shop!
+Salve ad Tabernam Ferrorum Ziggii!
 IDS_SHOPWELCOME25F
-Welcome to Ziggius's Kissing Parlor!
+Salve ad Lustrum Ziggii!
 IDS_SHOPWELCOME25G
-Welcome to Ziggius's Hired Hands!
+Salve ad Catastam Ziggii!
 IDS_SHOPWELCOME25H
-Welcome to Ziggius's Wheel of Prizes!
+Salve ad Aleatorium Ziggii!
 IDS_SHOPWELCOME25I
-Welcome to Ziggius's General Store!
+Salve ad Tabernam Generalem Ziggii!
 IDS_BUY_ITEM_ROPEPILE
 Buy Rope Pile
 IDS_BUY_ITEM_BOMBBAG
@@ -1737,13 +1737,13 @@ Moonbounce II
 IDS_ARENA_SPECIAL8
 Elevators
 IDS_PLAYER_WINS1
-LUDANS 1 WINS!
+FACTOR 1 WINS!
 IDS_PLAYER_WINS2
-LUDANS 2 WINS!
+FACTOR 2 WINS!
 IDS_PLAYER_WINS3
-LUDANS 3 WINS!
+FACTOR 3 WINS!
 IDS_PLAYER_WINS4
-LUDANS 4 WINS!
+FACTOR 4 WINS!
 IDS_NOBODY_WINS
 NOBODY WINS!
 IDS_DMRESULTS_GUIDE
@@ -1941,7 +1941,7 @@ IDS_LEVELEND_CONTINUE
 IDS_SPIN_WHEEL
 Torquere Rotam
 IDS_CHOOSE_ADVENTURER
-CHOOSE ADVENTURER
+ELIGE PERSONA
 IDS_CONTROLS_MOVE
 @L Movere
 IDS_GUIDE_UNLOCK
@@ -2055,13 +2055,13 @@ Puella/Puer/Canis
 IDS_GUIDE_RESET_SETTINGS
 @X Default Settings
 IDS_DM_PLAYER_1_WINS
-PLAYER 1 WINS!
+PLAYER I WINS!
 IDS_DM_PLAYER_2_WINS
-PLAYER 2 WINS!
+PLAYER II WINS!
 IDS_DM_PLAYER_3_WINS
-PLAYER 3 WINS!
+PLAYER III WINS!
 IDS_DM_PLAYER_4_WINS
-PLAYER 4 WINS!
+PLAYER IV WINS!
 IDS_DM_NOBODY_WINS
 NOBODY WINS!
 IDS_HOW_TO_PLAY_1
@@ -2201,7 +2201,7 @@ My soul was judged unworthy by the King of the Underworld.
 IDS_GUIDE_QUICKRESTART
 @X Subito Iterum
 IDS_GUIDE_SELECT
-@A Electere
+@A Optare
 IDS_GUIDE_DONATE
 @A Dare
 IDS_GUIDE_CANCEL
@@ -2327,7 +2327,7 @@ The game failed to write to your gamer profile. An Achievement could not be save
 IDS_PAUSED
 INTERMISSUS
 IDS_LEADERBOARDS_TIME
-TIME
+TEMPUS
 IDS_WARNING_AUTOSAVING
 This game features autosaving. When you see this icon, do not turn off the console or remove any storage devices.
 IDS_GAMEOVER_SHOT
@@ -2475,15 +2475,15 @@ Deathmatch Arenas Unlocked
 IDS_GAMEOVER_VIEW_LEADERBOARD
 @A View Leaderboard
 IDS_LEADERBOARDS_PLAYER
-LUDANS
+FACTOR
 IDS_CHARSELECT_P1
-Ludans I
+Factor I
 IDS_CHARSELECT_P2
-Ludans II
+Factor II
 IDS_CHARSELECT_P3
-Ludans III
+Factor III
 IDS_CHARSELECT_P4
-Ludans IV
+Factor IV
 IDS_GRAPHICS
 GRAPHICS
 IDS_HNO_GRAPHICS
