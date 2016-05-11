@@ -193,7 +193,7 @@ Purchase/Door
 IDS_CONTROLS_UNUSED
 Unused
 IDS_JOURNAL_TUTORIAL1
-Greetings! My name is Yang, and this is my journal. Dusty maps and rumors of amazing treasures have led me here, deep under the desert.
+Salve! Meum nomen est Iang, et hic commentarium meum est. Tabulae pulvereae et rumores thesaurorum mirorum me hoc duxit, altum sub solitudinem.
 IDS_JOURNAL_TUTORIAL2
 There's something very strange about this place... the layout seems to change all the time. I've never seen the same room twice!
 IDS_JOURNAL_TUTORIAL3
@@ -219,7 +219,7 @@ I'm descending into the caves for what I hope is the last time. I won't return u
 IDS_JOURNAL_TUTORIAL13
 Or are there even greater delights to be discovered? Well, there's only one way to find out!
 IDS_JOURNAL_TUTORIAL14
-Take this key. It will open the entrance to the fodinae. Follow me if you dare!*Happy Exploring!*-Yang
+Take this key. It will open the entrance to the fodinae. Follow me if you dare!*Happy Exploring!*-Iang
 IDS_JOURNAL_KILLS
 Numerus Necati:
 IDS_JOURNAL_KILLEDBY
@@ -255,7 +255,7 @@ Skeleton
 IDS_JOURNAL_SKELETON_DESC
 A living skeleton straight out of your nightmares.
 IDS_JOURNAL_SCORPION
-Scorpion
+Scorpio
 IDS_JOURNAL_SCORPION_DESC
 A predatory arachnid with a poisonous stinger on its tail.
 IDS_JOURNAL_CAVEMAN
@@ -359,13 +359,13 @@ Worm Baby
 IDS_JOURNAL_WORMBABY_DESC
 It looks small now, but adults can grow to a length of several miles.
 IDS_JOURNAL_YETI
-Yeti
+Ieti
 IDS_JOURNAL_YETI_DESC
 A playful creature that unfortunately doesn't know its own strength.
 IDS_JOURNAL_YETIKING
-Yeti King
+Rex Ietorum
 IDS_JOURNAL_YETIKING_DESC
-The king of the yetis is whichever yeti is the biggest.
+Rex ietorum est qui ieti magnissimus est.
 IDS_JOURNAL_MAMMOTH
 Mammoth
 IDS_JOURNAL_MAMMOTH_DESC
@@ -491,13 +491,13 @@ Yeti Cave
 IDS_JOURNAL_YETICAVE_DESC
 Home to a family yetis. No wonder it smells!
 IDS_JOURNAL_MOTHERSHIP
-Mothership
+Navis robus
 IDS_JOURNAL_MOTHERSHIP_DESC
-An impossibly large alien craft.
+Navis magna impossibile alienigena.
 IDS_JOURNAL_COG
-City of Gold
+Urbs Auri
 IDS_JOURNAL_COG_DESC
-The City of Gold! So the legends were true!
+Urbs Auri! Proinde mythi veri sunt!
 IDS_JOURNAL_ROPEPILE
 Rope Pile
 IDS_JOURNAL_ROPEPILE_DESC
@@ -691,9 +691,9 @@ Lava
 IDS_JOURNAL_LAVA_DESC
 Molten rock that flows deep underground. The heat can melt almost anything!
 IDS_STARTMSG
-Moeniae sunt versis...
+Parietes mutant...
 IDS_JOURNALPICKUP
-You picked up a journal! Press @- to open it.
+Tu commentarium sumpsisti! Pressa @- illud recludere.
 IDS_LEVELFEELING_CEMETARY
 Mortui sunt inquietum...
 IDS_LEVELFEELING_MARKET
@@ -767,7 +767,7 @@ Virgilius
 IDS_SHOPKEEPER_NAME23
 Valens
 IDS_SHOPKEEPER_NAME24
-Ho Xe
+Pseudolus
 IDS_SHOPKEEPER_NAME25
 Iuvenalis
 IDS_SHOPKEEPER_NAME26
@@ -1569,9 +1569,9 @@ Debeo numquam illum coponem irritaverim ...
 IDS_GAMEOVERDESC_YETI
 Yeti percussit me ad mortem.
 IDS_GAMEOVERDESC_TIKIMAN
-Tiki-vir percussit me ad mortem.
+Homo tikis percussit me ad mortem.
 IDS_GAMEOVERDESC_HAWKMAN
-Accipiter-vir percussit me ad mortem.
+Accipiter-homo percussit me ad mortem.
 IDS_GAMEOVERDESC_FROG
 I got squished by a frog.
 IDS_GAMEOVERDESC_MANTRAP
@@ -1583,37 +1583,37 @@ I was torn apart by the legendary river monster.
 IDS_GAMEOVERDESC_BEE
 Allergicus apibus esse debeo.
 IDS_GAMEOVERDESC_ACID
-My flesh is melting right off the bone.
+Carnis meus ab osse decoquet.
 IDS_GAMEOVERDESC_JIANGSHI
 Jiang shi animum meum suxi.
 IDS_GAMEOVERDESC_KNIGHT
 Ego dabatur gratam mediaevalem.
 IDS_GAMEOVERDESC_PSYCHICBLAST
-A powerful psychic blast has liquified my brains.
+Flamen psychicum cerebrum meum liquefecit.
 IDS_GAMEOVERDESC_MUMMY
-An ancient mummy has gotten its revenge on humanity.
+Mumia antica humanitatem poenivit.
 IDS_GAMEOVERDESC_ANUBIS
-I've been destroyed by the jackal-headed god Anubis.
+Sublatus sum a deo Anube, capita draconis.
 IDS_GAMEOVERDESC_VAMPIRE
-I can feel my humanity draining away from the vampire's bite...
+Sentio humanitatem meum effusum a morsu strigis...
 IDS_GAMEOVERDESC_YETIKING
-I've been thrashed by the king of the yetis.
+Mulcatus sum a rex ietorum.
 IDS_GAMEOVERDESC_ALIEN
-Embarrassingly enough, I've been killed by a little alien.
+Satis intricante, necatus sum ab alienigeno parvo.
 IDS_GAMEOVERDESC_MAGMAMAN
-I was burned to death by a magma man.
+Ustus ad mortem ab homine ignis sum.
 IDS_GAMEOVERDESC_VLAD
-I confronted Vlad the Impaler and lost.
+Vladem Infigentem confrontavi et perdidi.
 IDS_GAMEOVERDESC_IMP
-I was nibbled to death by a minion of Hell!
+Rosus sum ad mortem a ministro Inferni!
 IDS_GAMEOVERDESC_DEVIL
-A blue devil perforated me with one of his horns.
+Diabolus caeruleus perforavi me cum uno corni sui.
 IDS_GAMEOVERDESC_GHOST
 Ubi sum? Non sentio corpum meum...
 IDS_GAMEOVERDESC_BRAINDAMAGE
-Something hard hit me in the head.
+Aliquid robusta in capite percussit.
 IDS_GAMEOVERDESC_LONGFALL
-I broke every bone in my body.
+Osses omnes in corpo rupi.
 IDS_GAMEOVERDESC_EXPLOSION
 Non possum exire cis brevem.
 IDS_GAMEOVERDESC_SPIKES
@@ -1629,7 +1629,7 @@ Corpus glacialis fregit in milionem carunculae.
 IDS_GAMEOVERDESC_ABYSS
 Iuva, cado tamen!
 IDS_GAMEOVERDESC_LAVA
-I've been burnt to a crisp.
+Crematus sum.
 IDS_GAMEOVERDESC_UFO
 I've been incinerated by a UFO laser blast.
 IDS_GAMEOVERDESC_SLAMMED
@@ -1737,15 +1737,15 @@ Moonbounce II
 IDS_ARENA_SPECIAL8
 Elevators
 IDS_PLAYER_WINS1
-FACTOR 1 WINS!
+FACTOR 1 VICIT!
 IDS_PLAYER_WINS2
-FACTOR 2 WINS!
+FACTOR 2 VICIT!
 IDS_PLAYER_WINS3
-FACTOR 3 WINS!
+FACTOR 3 VICIT!
 IDS_PLAYER_WINS4
-FACTOR 4 WINS!
+FACTOR 4 VICIT!
 IDS_NOBODY_WINS
-NOBODY WINS!
+NEMO VICIT!
 IDS_DMRESULTS_GUIDE
 @X Change Arena      @A Next Round      @B Main Menu
 IDS_DMWINNER_GUIDE
@@ -1757,7 +1757,7 @@ But unfortunately, this is only the trial version of the game... get the full ve
 IDS_TRIALNAG3
 Challenge your friends with cooperative multiplayer and deathmatch in 48 unlockable arenas!
 IDS_TRIALNAG4
-Follow Yang to Olmec's Treasure and unravel the many mysteries of Spelunky!
+Follow Iang to Olmec's Treasure and unravel the many mysteries of Spelunky!
 IDS_ERROR_NOTCONNECTEDPOST
 You are not connected to Xbox LIVE. Your score will not be added to the leaderboards.
 IDS_ERROR_NOTCONNECTEDVIEW
@@ -1909,19 +1909,19 @@ FACTUS
 IDS_DEATHMATCH_OFF
 NON
 IDS_ENDING_YANG1
-Salve, cives thesaurum venator! Yang sum!
+Salve, cives thesaurum venator! Iang sum!
 IDS_ENDING_YANG2
 Commentarium meum video vobiscum! Iam id debet cum stupenis omniis resplendere.
 IDS_ENDING_YANG3
-Since you worked so hard to get here, I'll bet you're expecting a large reward.
+Quoniam fecisti robuste hoc pervenire, puto ut exspectes praemium magnum.
 IDS_ENDING_YANG4
-Well, with all the time I've spent down here, I've come to realize a few things...
+Ergo, propter tempum in hoc fui, quippiam intellexi...
 IDS_ENDING_YANG5
 Ut iter praemium ipsum est et dominatus thesaurus summus est!
 IDS_ENDING_YANG6
 Etiam sit amet nisi aurum quoque!
 IDS_ENDING_YANG7
-Va ha ha! Now let's get out of here before my joints get stiff!
+Va ha ha! Ergo ab hoc fugemus antequam articuli rigescant!
 IDS_JOURNAL_VALUE
 Pretium:
 IDS_GUIDE_BACK
@@ -1941,7 +1941,7 @@ IDS_LEVELEND_CONTINUE
 IDS_SPIN_WHEEL
 Torquere Rotam
 IDS_CHOOSE_ADVENTURER
-ELIGE PERSONA
+ELIGE PERSONAM
 IDS_CONTROLS_MOVE
 @L Movere
 IDS_GUIDE_UNLOCK
@@ -2075,21 +2075,21 @@ HOW TO PLAY (4/4)
 IDS_GUIDE_FILTER
 @X Change Filter
 IDS_PURCHASE_A
-Press @A to purchase.
+Pressa @A sumere.
 IDS_PURCHASE_B
-Press @B to purchase.
+Pressa @B sumere.
 IDS_PURCHASE_X
-Press @X to purchase.
+Pressa @X sumere.
 IDS_PURCHASE_Y
-Press @Y to purchase.
+Pressa @Y sumere.
 IDS_PURCHASE_LB
-Press @{ to purchase.
+Pressa @{ sumere.
 IDS_PURCHASE_RB
-Press @} to purchase.
+Pressa @} sumere.
 IDS_PURCHASE_LT
-Press @[ to purchase.
+Pressa @[ sumere.
 IDS_PURCHASE_RT
-Press @] to purchase.
+Pressa @] sumere.
 IDS_JOURNAL_POWDERKEG
 Powder Box
 IDS_JOURNAL_POWDERKEG_DESC
@@ -2309,7 +2309,7 @@ At least I made a friend!
 IDS_GAMEOVERDESC_COG
 It's the most exquisite tomb in the whole world...
 IDS_GAMEOVERDESC_YANG
-Yang was right... the layout of the caves is changing all the time!
+Iang was right... the layout of the caves is changing all the time!
 IDS_GAMEOVERDESC_TOUGH
 This is really hard, but I can't give up!
 IDS_GAMEOVERDESC_FAR
