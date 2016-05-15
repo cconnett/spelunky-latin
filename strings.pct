@@ -143,7 +143,7 @@ GAMERTAG
 IDS_LEADERBOARDS_CHARACTER
 PERSONA
 IDS_LEADERBOARDS_LEVEL
-GRADUM
+TABULATUM
 IDS_LEADERBOARDS_SCORE
 PRAEDA
 IDS_LEADERBOARDS_FRIENDS
@@ -173,7 +173,7 @@ Praeda Plurima:
 IDS_PLAYERPROFILE_BESTTIME
 Best Time:
 IDS_PLAYERPROFILE_LEVEL
-Level:
+TABULATUM:
 IDS_PLAYERPROFILE_SCORE
 Praeda:
 IDS_CONTROLS
@@ -211,15 +211,15 @@ I caught a glimpse of a lush paradise the other day, at the end of the fodinae.
 IDS_JOURNAL_TUTORIAL9
 How could such a place exist so far underground? And what lies beyond?
 IDS_JOURNAL_TUTORIAL10
-Cave merchants speak of even more fabuLucrediuss sights further below... ancient ruins and cities made of gold! The very idea makes my restless heart beat faster!
+Cave merchants speak of even more fabulous sights further below... ancient ruins and cities made of gold! The very idea makes my restless heart beat faster!
 IDS_JOURNAL_TUTORIAL11
 To whomever holds this journal: I hope you find it useful. It's served me well but I no longer need it.
 IDS_JOURNAL_TUTORIAL12
 I'm descending into the caves for what I hope is the last time. I won't return until I've escaped with The Ultimate Treasure!
 IDS_JOURNAL_TUTORIAL13
-Or are there even greater delights to be discovered? Well, there's only one way to find out!
+Sive sunt magnior voluptas repertus esse? Igitur, modo est ars una comperire!
 IDS_JOURNAL_TUTORIAL14
-Take this key. It will open the entrance to the fodinae. Follow me if you dare!*Happy Exploring!*-Iang
+Accipe hanc clavem. Illa porta fodinarum solvebit. Immitarire si audeas!*Felix explorare!*-Iang
 IDS_JOURNAL_KILLS
 Numerus Necati:
 IDS_JOURNAL_KILLEDBY
@@ -233,27 +233,27 @@ The bane of every adventurer. It enjoys hiding in pots.
 IDS_JOURNAL_COBRA
 Cobra
 IDS_JOURNAL_COBRA_DESC
-A deadly serpent with a distinctive hood and venomous spit.
+Serpens capitalis cum caputio proprio et desputo atro.
 IDS_JOURNAL_BAT
-Bat
+Vespertilio
 IDS_JOURNAL_BAT_DESC
-It prefers eating bugs, but will attack human beings if it's hungry enough.
+Illud mavult comsumare cimices, sed homines aggreditur si sit essuriens.
 IDS_JOURNAL_SPIDER
-Spider
+Aranea
 IDS_JOURNAL_SPIDER_DESC
-Larger than your average household variety. Don't let it get the drop on you.
+Magnior quam typicum. Ne cadat in te.
 IDS_JOURNAL_HANGSPIDER
-Spinner Spider
+Aranea Nerens
 IDS_JOURNAL_HANGSPIDER_DESC
-It hangs from the ceiling on a silky thread.
+Dejiceret ab tecto in capillamento bombycino.
 IDS_JOURNAL_GIANTSPIDER
-Giant Spider
+Aranea Magna
 IDS_JOURNAL_GIANTSPIDER_DESC
 A gargantuan spider the size of a car! She traps her prey in sticky webs.
 IDS_JOURNAL_SKELETON
-Skeleton
+Sceletus
 IDS_JOURNAL_SKELETON_DESC
-A living skeleton straight out of your nightmares.
+Sceletus vivens a suppressione tuo.
 IDS_JOURNAL_SCORPION
 Scorpio
 IDS_JOURNAL_SCORPION_DESC
@@ -1539,11 +1539,11 @@ We need to work on our teamwork!
 IDS_GAMEOVERDESC_WORM
 Spero gustem bene, saltem!
 IDS_GAMEOVERDESC_MINESEND
-The end of the fodinae was just in sight! If I could survive a little longer...
+Finem fodinae video! Si supersim diutius...
 IDS_GAMEOVERDESC_LUSHEND
-The air was getting much colder... I almost reached the next area!
+Caelum frigum nimis fiabat ... Paene potiebar cardinem posteriorem!
 IDS_GAMEOVERDESC_ICEEND
-I can hear muffled chanting coming from below...
+Audio cantabundum obscurum venientem a deorsum...
 IDS_GAMEOVERDESC_OLMEC
 Videtur uti ego non par Olmeco sum. Mox!
 IDS_GAMEOVERDESC_KALI
@@ -1553,13 +1553,13 @@ Serpentes! Ego odi serpentes!
 IDS_GAMEOVERDESC_SNAKE2
 Ego serpentis felli atri succumbo.
 IDS_GAMEOVERDESC_BAT
-A bat nibbled me to death.
+Vespertilio delibavit me ad mortem.
 IDS_GAMEOVERDESC_SPIDER
 Ego araneae felli atri succumbo.
 IDS_GAMEOVERDESC_GIANTSPIDER
 Illam erat araneam magnissimam vidi umquam!
 IDS_GAMEOVERDESC_SKELETON
-I was clawed to death by a skeleton.
+Ego scalptus ad mortem a sceleto.
 IDS_GAMEOVERDESC_SCORPION
 Punctus scorpione sum!
 IDS_GAMEOVERDESC_CAVEMAN
@@ -1937,7 +1937,7 @@ TU VICISTI
 IDS_ENDING_THANKS
 Tibi gracias pro ludente!
 IDS_LEVELEND_CONTINUE
-@A Procedare ad Gradum
+@A Procedare ad Tabulatum Posterius
 IDS_SPIN_WHEEL
 Torquere Rotam
 IDS_CHOOSE_ADVENTURER
@@ -2457,11 +2457,11 @@ Compete against other online explorers in today's adventure. You've only got one
 IDS_MAINMENU_DAILYCHECKING
 Checking for existing daily score. Please wait.
 IDS_MAINMENU_DAILYLOCKED
-You have already played today's challenge. Try again tomorrow!
+Iam lusisti arduum hodie. Proba iterum cras!
 IDS_GUIDE_REMAP_KEYS
-@A Remap Keys
+@A Mutare Mutatra
 IDS_GUIDE_DEFAULT_KEYS
-@X Default Keys
+@X Mutatra Principa
 IDS_ARENA_X1
 OLD BITEY
 IDS_ARENA_X2
@@ -2473,7 +2473,7 @@ Bother Carl
 IDS_ARENAS_UNLOCKED
 Deathmatch Arenas Unlocked
 IDS_GAMEOVER_VIEW_LEADERBOARD
-@A View Leaderboard
+@A Tabula Optimorum Videre
 IDS_LEADERBOARDS_PLAYER
 FACTOR
 IDS_CHARSELECT_P1
@@ -2485,34 +2485,34 @@ Factor III
 IDS_CHARSELECT_P4
 Factor IV
 IDS_GRAPHICS
-GRAPHICS
+Visifictae
 IDS_HNO_GRAPHICS
-Graphics
+Visifictae
 IDS_APPLY_SCREEN
-Apply Screen Settings
+Aptare Configurationes Visifictas
 IDS_FULLSCREEN_FX
-Fullscreen Effects
+Effecti Solidi
 IDS_DYNAMIC_SHADOWS
-Dynamic Shadows
+Umbrae Dynamicae
 IDS_UPDATED
-Updated
+Profectus
 IDS_HIGH
-HIGH
+MAGNUS
 IDS_LOW
-LOW
+HUMILIS
 IDS_QUICKSTART
 @X Subito Incipere
 IDS_REMAP_INVERT_RUN_OFF
-Invert Run: OFF
+Currendum Inversum: OFF
 IDS_REMAP_INVERT_RUN_ON
-Invert Run: ON
+Currendum Inversum: ON
 IDS_KEY_RUN_INVERT_OFF
-Invert: OFF
+Inversus: CESSATUS
 IDS_KEY_RUN_INVERT_ON
-Invert: ON
+Inversus: EFFICAX
 IDS_HUD_STYLE
-HUD Style
+Figura Visorum
 IDS_HUD_STANDARD
-STANDARD
+COMMODUS
 IDS_HUD_PRO
 PRO
