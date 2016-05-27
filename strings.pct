@@ -167,29 +167,29 @@ Mortes:
 IDS_PLAYERPROFILE_WINS
 Victoriis:
 IDS_PLAYERPROFILE_AVGSCORE
-Avg. Score:
+Praeda mediocris:
 IDS_PLAYERPROFILE_BESTSCORE
 Praeda Plurima:
 IDS_PLAYERPROFILE_BESTTIME
-Best Time:
+Temporis Optimis:
 IDS_PLAYERPROFILE_LEVEL
-TABULATUM:
+Tabulatum:
 IDS_PLAYERPROFILE_SCORE
 Praeda:
 IDS_CONTROLS
 CONTROLS
 IDS_CONTROLS_WHIP
-Whip/Action
+Facere
 IDS_CONTROLS_JUMP
-Jump
+Adsilire
 IDS_CONTROLS_ROPE
-Rope
+Funem iacere
 IDS_CONTROLS_BOMB
-Bomb
+Bombam iacere
 IDS_CONTROLS_RUN
-Run
+Currare
 IDS_CONTROLS_PURCHASE
-Purchase/Door
+Redimere/Ostium Facere
 IDS_CONTROLS_UNUSED
 Unused
 IDS_JOURNAL_TUTORIAL1
@@ -237,7 +237,7 @@ Serpens capitalis cum caputio proprio et desputo atro.
 IDS_JOURNAL_BAT
 Vespertilio
 IDS_JOURNAL_BAT_DESC
-Illud mavult comsumare cimices, sed homines aggreditur si sit essuriens.
+Id mavult comsumare cimices, sed homines aggreditur si sit essuriens.
 IDS_JOURNAL_SPIDER
 Aranea
 IDS_JOURNAL_SPIDER_DESC
@@ -351,11 +351,11 @@ Bacterium
 IDS_JOURNAL_CELL_DESC
 A dangerous single-celled organism that feeds on decaying matter.
 IDS_JOURNAL_WORMEGG
-Worm Egg
+Ovum Vermis
 IDS_JOURNAL_WORMEGG_DESC
 It's filled with worm babies. Gross!
 IDS_JOURNAL_WORMBABY
-Worm Baby
+Pupa Vermis
 IDS_JOURNAL_WORMBABY_DESC
 It looks small now, but adults can grow to a length of several miles.
 IDS_JOURNAL_YETI
@@ -371,7 +371,7 @@ Mammoth
 IDS_JOURNAL_MAMMOTH_DESC
 This furry animal was thought to be extinct. Its breath is like a blizzard!
 IDS_JOURNAL_ALIEN
-Alien
+Alienigeno
 IDS_JOURNAL_ALIEN_DESC
 Invaders from space... what are they doing down here?
 IDS_JOURNAL_UFO
@@ -481,9 +481,9 @@ Long ago, the knights who dwelt here were cursed with eternal life.
 IDS_JOURNAL_MARKET
 Black Market
 IDS_JOURNAL_MARKET_DESC
-You may be able to purchase some one-of-a-kind items in this hidden place...
+Forte redimeas res unicas in hac abscondita...
 IDS_JOURNAL_WORM
-Worm
+Vormis
 IDS_JOURNAL_WORM_DESC
 In one end and out the other.
 IDS_JOURNAL_YETICAVE
@@ -579,9 +579,9 @@ Parachute
 IDS_JOURNAL_PARACHUTE_DESC
 It will deploy automatically as you're falling.
 IDS_JOURNAL_CAPE
-Cape
+Capa
 IDS_JOURNAL_CAPE_DESC
-It looks dashing and also lets you float in the air.
+Apparet elegans et nates in aer.
 IDS_JOURNAL_TELEPORTER
 Teleporter
 IDS_JOURNAL_TELEPORTER_DESC
@@ -1417,31 +1417,31 @@ IDS_DONATION_GUIDE
 IDS_KALI_ACCEPTS
 Kali accepts your sacrifice!
 IDS_KALI_INVIGORATED
-You feel invigorated!
+Vigoratus es!
 IDS_KALI_BESTOWS
-She bestows a gift upon you!
+Donat praemium tibi!
 IDS_KALI_SATCHEL
-Your satchel feels very full!
+Tuam capsam sentiatur plena!
 IDS_KALI_ECSTATIC
-She seems ecstatic with you.
+Eam videtur ecstatica tibi.
 IDS_KALI_HAPPY
-She seems happy with you.
+Eam videtur laeta tibi.
 IDS_KALI_FORGIVEN
-She has forgiven you.
+Ea igovi tibi.
 IDS_KALI_PLEASED
-She seems pleased with you.
+Eam videtur contenta tibi.
 IDS_KALI_ANGRY
-She seems angry with you.
+Eam videtur irascatur tibi.
 IDS_KALI_VERY_ANGRY
-She seems very angry with you.
+Eam videtur nimis irascatur tibi.
 IDS_KALI_ANGERED
 Irritavisti Kalidem!
 IDS_KALI_STILL_ECSTATIC
-Yet she still seems ecstatic with you.
+Tamen eam videtur ecstatica tibi.
 IDS_KALI_STILL_HAPPY
-Yet she still seems happy with you.
+Tamen eam videtur laeta tibi.
 IDS_KALI_STILL_PLEASED
-Yet she still seems pleased with you.
+Tamen eam videtur contenta tibi.
 IDS_LABEL_LEVEL
 Altum:
 IDS_LABEL_MONEY
@@ -1539,7 +1539,7 @@ We need to work on our teamwork!
 IDS_GAMEOVERDESC_WORM
 Spero gustem bene, saltem!
 IDS_GAMEOVERDESC_MINESEND
-Finem fodinae video! Si supersim diutius...
+Finem fodinae videram! Si supersim diutius...
 IDS_GAMEOVERDESC_LUSHEND
 Caelum frigum nimis fiabat ... Paene potiebar cardinem posteriorem!
 IDS_GAMEOVERDESC_ICEEND
@@ -1619,7 +1619,7 @@ Non possum exire cis brevem.
 IDS_GAMEOVERDESC_SPIKES
 Ego in dentes cecidi.
 IDS_GAMEOVERDESC_ARROW
-An arrow has pierced one of my vital organs.
+Sagitta traiecit prosectum vitale.
 IDS_GAMEOVERDESC_TIKITRAP
 Adivi nimis prope insidiam tikum.
 IDS_GAMEOVERDESC_CRUSHED
@@ -1627,7 +1627,7 @@ Ego in glutinem subtilem contritus sum.
 IDS_GAMEOVERDESC_FROZEN
 Corpus glacialis fregit in milionem carunculae.
 IDS_GAMEOVERDESC_ABYSS
-Iuva, cado tamen!
+Iuva, cado etiam!
 IDS_GAMEOVERDESC_LAVA
 Crematus sum.
 IDS_GAMEOVERDESC_UFO
@@ -2169,35 +2169,35 @@ Nonne dare posses tres bombam uti id tollere possum?
 IDS_SHORTCUT_ROPES
 Brevem defodebam, sed fovea alta in via est.
 IDS_SHORTCUT_ROPE1
-Nonne dare posses fenem uti descendere in pace possum?
+Nonne dare posses funem uti descendere in pace possum?
 IDS_SHORTCUT_ROPE2
-Nonne dare posses duo fenem uti descendere in pace possum?
+Nonne dare posses duo funem uti descendere in pace possum?
 IDS_SHORTCUT_ROPE3
-Nonne dare posses tres fenem uti descendere in pace possum?
+Nonne dare posses tres funem uti descendere in pace possum?
 IDS_SHORTCUT_MONEY1
 I was digging a shortcut, but some of my equipment broke.
 IDS_SHORTCUT_MONEY2
-Nonne dare posses X̄ sestertii pro id redimere?
+Nonne dare posses decem millia sestertii pro id redimere?
 IDS_SHORTCUT_FAIL
-Unfortunately, it doesn't look like you have enough! Maybe next time!
+Infeliciter, non habes satis! Mox fortisan!
 IDS_SHORTCUT_SHOTGUN_NEXT1
-Next time you see me, can you bring me a shotgun?
+Mox me vides, portas canonem?
 IDS_SHORTCUT_SHOTGUN_NEXT2
 I'll need something to protect myself from the monsters down here.
 IDS_SHORTCUT_SHOTGUN
 I was digging a shortcut, but there are a lot of monsters down there.
 IDS_SHORTCUT_SHOTGUN_HAVE
-I see you brought a shotgun! Can I have it?
+Video uti canonem portas! Dabis id mihi?
 IDS_SHORTCUT_KEY_NEXT1
-Next time you see me, can you bring me the gold key from the Mines?
+Mox me vides, portas clavem auream a fodinis?
 IDS_SHORTCUT_KEY_NEXT2
 I'll need it to get into a locked chamber that's coming up.
 IDS_SHORTCUT_KEY
 I was digging a shortcut, but I reached a locked door.
 IDS_SHORTCUT_KEY_HAVE
-That key you're holding looks like it might fit! Can I have it?
+Illa clavis uti tenes videtur par esset! Dabis id mihi?
 IDS_GAMEOVERDESC_YAMA
-My soul was judged unworthy by the King of the Underworld.
+Animus meus decretus indignus esse a Rege Inferni.
 IDS_GUIDE_QUICKRESTART
 @X Subito Iterum
 IDS_GUIDE_SELECT
@@ -2355,7 +2355,7 @@ TRUNCATIS 2-4
 IDS_JOURNAL_JUNGLE
 Truncatis
 IDS_BUY_ITEM_MYSTERYBOX
-Buy Mystery Box
+Rem mysterium redimere
 IDS_LEVEL_OLMEC
 LATIUBULUM OLMECI
 IDS_COMPLETED_OLMEC
@@ -2403,13 +2403,13 @@ IDS_AVG_OF_DAILY
 IDS_ANY_KEY
 Press Any Key
 IDS_KEY_ACTION
-WHIP/ACTION:
+FACERE:
 IDS_KEY_JUMP
-JUMP:
+ADSILIRE:
 IDS_KEY_BOMB
-BOMB:
+BOMBA:
 IDS_KEY_ROPE
-ROPE:
+FUNEM IACERE:
 IDS_KEY_RUN
 RUN:
 IDS_KEY_SPECIAL
@@ -2439,21 +2439,21 @@ IDS_DEATHMATCH_TOGGLE_ITEM
 IDS_DEATHMATCH_TOGGLE_ALL
 @X Toggle All Items
 IDS_DEATHMATCH_RETURN_OPTIONS
-@B Return to Options
+@B Revertere ad Optiones
 IDS_SETTINGS_LANGUAGE
-Language
+Lingua
 IDS_SETTINGS_WINDOWED
-Windowed
+Particularis
 IDS_SETTINGS_FULLSCREEN
-Fullscreen
+Solidus
 IDS_SETTINGS_TITLE_RESOLUTION
-RESOLUTION
+SUPTILITAS
 IDS_HNO_RESOLUTION
-Resolution
+Suptilitas
 IDS_MAINMENU_DAILY_CHALLENGE
 Arduum Diei
 IDS_MAINMENU_DAILYDESC
-Compete against other online explorers in today's adventure. You've only got one shot!
+Contenta alium spelaeologos in hodiernum ausum. Habes unicum potestatem!
 IDS_MAINMENU_DAILYCHECKING
 Checking for existing daily score. Please wait.
 IDS_MAINMENU_DAILYLOCKED
