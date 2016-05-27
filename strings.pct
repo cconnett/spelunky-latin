@@ -67,11 +67,11 @@ Auxilium et Optiones
 IDS_MAINMENU_UNLOCK
 Unlock Full Game
 IDS_MAINMENU_RETURN
-Truncus
+Revertere Radicitus
 IDS_MAINMENU_ADVENTUREDESC
-Embark on a quest for Olmec's legendary treasure! Go alone or with friends.
+Conscende arduum pro thesaurum Olmeci fabulosum! I solummodo vel cum amiciis.
 IDS_MAINMENU_DEATHMATCHDESC
-Compete in a deadly competition to see who is the most skilled adventurer.
+Contenda in certamine atre cernere qui est spelaeologus peritissimus.
 IDS_PAUSED_RESUME
 Ludum Resumare
 IDS_PAUSED_RESTART
@@ -79,13 +79,13 @@ Ludum Iterum Incipere
 IDS_PAUSED_EXIT
 Ludum Exire
 IDS_HOWTOPLAY1_1
-You begin the game with four health. If you run out of health, your expedition will come to an end.
+Conscendes cum quattuor valetudine. Si validutine absumes, defices.
 IDS_HOWTOPLAY1_2
-Ropes let you reach high ledges and descend safely into pits. Press @Y to throw one.
+Funes potiaris rupes altas et descendeas tute in cavis. Pressa @Y iacere illum.
 IDS_HOWTOPLAY1_3
-Bombs can be used to blow up the walls. Press @B to throw one... but be careful!
+Bombae potestant excindere parietes. Pressa @B iacere illam... sed cautus es!
 IDS_HOWTOPLAY1_4
-Your whip is your best defense against the monsters that inhabit the caves. Press @X to attack with it.
+Taurea tua est optimus defensio contra the monsters that inhabit the caves. Press @X to attack with it.
 IDS_HOWTOPLAY2_1
 Wooden crates are littered around the caves. Whip them open to find supplies to aid you on your adventure.
 IDS_HOWTOPLAY2_2
@@ -165,7 +165,7 @@ Ludi:
 IDS_PLAYERPROFILE_DEATHS
 Mortes:
 IDS_PLAYERPROFILE_WINS
-Victoriis:
+Victoriae:
 IDS_PLAYERPROFILE_AVGSCORE
 Praeda mediocris:
 IDS_PLAYERPROFILE_BESTSCORE
@@ -479,7 +479,7 @@ Haunted Castle
 IDS_JOURNAL_CASTLE_DESC
 Long ago, the knights who dwelt here were cursed with eternal life.
 IDS_JOURNAL_MARKET
-Black Market
+Mercatus Malificus
 IDS_JOURNAL_MARKET_DESC
 Forte redimeas res unicas in hac abscondita...
 IDS_JOURNAL_WORM
@@ -697,7 +697,7 @@ Tu commentarium sumpsisti! Pressa @- illud recludere.
 IDS_LEVELFEELING_CEMETARY
 Mortui sunt inquietum...
 IDS_LEVELFEELING_MARKET
-Salve in Venalicio Nigro!
+Salve in Mercatum Malificum!
 IDS_LEVELFEELING_CASTLE
 Lupus in distantia ululat...
 IDS_LEVELFEELING_SNAKEPIT
@@ -773,473 +773,473 @@ Iuvenalis
 IDS_SHOPKEEPER_NAME26
 Ziggius
 IDS_SHOPWELCOME0A
-Salve ad Tabernam Generalem Augusti!
+Salve in Tabernam Generalem Augusti!
 IDS_SHOPWELCOME0B
-Salve ad Tabernam Specialum Augusti!
+Salve in Tabernam Specialum Augusti!
 IDS_SHOPWELCOME0C
-Salve ad Tabernam Tegimentis Augusti!
+Salve in Tabernam Tegimentis Augusti!
 IDS_SHOPWELCOME0D
-Salve ad Tabernam Bombarum Augusti!
+Salve in Tabernam Bombarum Augusti!
 IDS_SHOPWELCOME0E
-Salve ad Tabernam Ferrorum Augusti!
+Salve in Tabernam Armorum Augusti!
 IDS_SHOPWELCOME0F
-Salve ad Lustrum Augusti!
+Salve in Lustrum Augusti!
 IDS_SHOPWELCOME0G
-Salve ad Catastam Augusti!
+Salve in Catastam Augusti!
 IDS_SHOPWELCOME0H
-Salve ad Aleatorium Augusti!
+Salve in Aleatorium Augusti!
 IDS_SHOPWELCOME0I
-Salve ad Tabernam Generalem Augusti!
+Salve in Tabernam Generalem Augusti!
 IDS_SHOPWELCOME1A
-Salve ad Tabernam Generalem Bruti!
+Salve in Tabernam Generalem Bruti!
 IDS_SHOPWELCOME1B
-Salve ad Tabernam Specialum Bruti!
+Salve in Tabernam Specialum Bruti!
 IDS_SHOPWELCOME1C
-Salve ad Tabernam Tegimentis Bruti!
+Salve in Tabernam Tegimentis Bruti!
 IDS_SHOPWELCOME1D
-Salve ad Tabernam Bombarum Bruti!
+Salve in Tabernam Bombarum Bruti!
 IDS_SHOPWELCOME1E
-Salve ad Tabernam Ferrorum Bruti!
+Salve in Tabernam Armorum Bruti!
 IDS_SHOPWELCOME1F
-Salve ad Lustrum Bruti!
+Salve in Lustrum Bruti!
 IDS_SHOPWELCOME1G
-Salve ad Catastam Bruti!
+Salve in Catastam Bruti!
 IDS_SHOPWELCOME1H
-Salve ad Aleatorium Bruti!
+Salve in Aleatorium Bruti!
 IDS_SHOPWELCOME1I
-Salve ad Tabernam Generalem Bruti!
+Salve in Tabernam Generalem Bruti!
 IDS_SHOPWELCOME2A
-Salve ad Tabernam Generalem Cassii!
+Salve in Tabernam Generalem Cassii!
 IDS_SHOPWELCOME2B
-Salve ad Tabernam Specialum Cassii!
+Salve in Tabernam Specialum Cassii!
 IDS_SHOPWELCOME2C
-Salve ad Tabernam Tegimentis Cassii!
+Salve in Tabernam Tegimentis Cassii!
 IDS_SHOPWELCOME2D
-Salve ad Tabernam Bombarum Cassii!
+Salve in Tabernam Bombarum Cassii!
 IDS_SHOPWELCOME2E
-Salve ad Tabernam Ferrorum Cassii!
+Salve in Tabernam Armorum Cassii!
 IDS_SHOPWELCOME2F
-Salve ad Lustrum Cassii!
+Salve in Lustrum Cassii!
 IDS_SHOPWELCOME2G
-Salve ad Catastam Cassii!
+Salve in Catastam Cassii!
 IDS_SHOPWELCOME2H
-Salve ad Aleatorium Cassii!
+Salve in Aleatorium Cassii!
 IDS_SHOPWELCOME2I
-Salve ad Tabernam Generalem Cassii!
+Salve in Tabernam Generalem Cassii!
 IDS_SHOPWELCOME3A
-Salve ad Tabernam Generalem Decimi!
+Salve in Tabernam Generalem Decimi!
 IDS_SHOPWELCOME3B
-Salve ad Tabernam Specialum Decimi!
+Salve in Tabernam Specialum Decimi!
 IDS_SHOPWELCOME3C
-Salve ad Tabernam Tegimentis Decimi!
+Salve in Tabernam Tegimentis Decimi!
 IDS_SHOPWELCOME3D
-Salve ad Tabernam Bombarum Decimi!
+Salve in Tabernam Bombarum Decimi!
 IDS_SHOPWELCOME3E
-Salve ad Tabernam Ferrorum Decimi!
+Salve in Tabernam Armorum Decimi!
 IDS_SHOPWELCOME3F
-Salve ad Lustrum Decimi!
+Salve in Lustrum Decimi!
 IDS_SHOPWELCOME3G
-Salve ad Catastam Decimi!
+Salve in Catastam Decimi!
 IDS_SHOPWELCOME3H
-Salve ad Aleatorium Decimi!
+Salve in Aleatorium Decimi!
 IDS_SHOPWELCOME3I
-Salve ad Tabernam Generalem Decimi!
+Salve in Tabernam Generalem Decimi!
 IDS_SHOPWELCOME4A
-Salve ad Tabernam Generalem Ennii!
+Salve in Tabernam Generalem Ennii!
 IDS_SHOPWELCOME4B
-Salve ad Tabernam Specialum Ennii!
+Salve in Tabernam Specialum Ennii!
 IDS_SHOPWELCOME4C
-Salve ad Tabernam Tegimentis Ennii!
+Salve in Tabernam Tegimentis Ennii!
 IDS_SHOPWELCOME4D
-Salve ad Tabernam Bombarum Ennii!
+Salve in Tabernam Bombarum Ennii!
 IDS_SHOPWELCOME4E
-Salve ad Tabernam Ferrorum Ennii!
+Salve in Tabernam Armorum Ennii!
 IDS_SHOPWELCOME4F
-Salve ad Lustrum Ennii!
+Salve in Lustrum Ennii!
 IDS_SHOPWELCOME4G
-Salve ad Catastam Ennii!
+Salve in Catastam Ennii!
 IDS_SHOPWELCOME4H
-Salve ad Aleatorium Ennii!
+Salve in Aleatorium Ennii!
 IDS_SHOPWELCOME4I
-Salve ad Tabernam Generalem Ennii!
+Salve in Tabernam Generalem Ennii!
 IDS_SHOPWELCOME5A
-Salve ad Tabernam Generalem Fausti!
+Salve in Tabernam Generalem Fausti!
 IDS_SHOPWELCOME5B
-Salve ad Tabernam Specialum Fausti!
+Salve in Tabernam Specialum Fausti!
 IDS_SHOPWELCOME5C
-Salve ad Tabernam Tegimentis Fausti!
+Salve in Tabernam Tegimentis Fausti!
 IDS_SHOPWELCOME5D
-Salve ad Tabernam Bombarum Fausti!
+Salve in Tabernam Bombarum Fausti!
 IDS_SHOPWELCOME5E
-Salve ad Tabernam Ferrorum Fausti!
+Salve in Tabernam Armorum Fausti!
 IDS_SHOPWELCOME5F
-Salve ad Lustrum Fausti!
+Salve in Lustrum Fausti!
 IDS_SHOPWELCOME5G
-Salve ad Catastam Fausti!
+Salve in Catastam Fausti!
 IDS_SHOPWELCOME5H
-Salve ad Aleatorium Fausti!
+Salve in Aleatorium Fausti!
 IDS_SHOPWELCOME5I
-Salve ad Tabernam Generalem Fausti!
+Salve in Tabernam Generalem Fausti!
 IDS_SHOPWELCOME6A
-Salve ad Tabernam Generalem Galli!
+Salve in Tabernam Generalem Galli!
 IDS_SHOPWELCOME6B
-Salve ad Tabernam Specialum Galli!
+Salve in Tabernam Specialum Galli!
 IDS_SHOPWELCOME6C
-Salve ad Tabernam Tegimentis Galli!
+Salve in Tabernam Tegimentis Galli!
 IDS_SHOPWELCOME6D
-Salve ad Tabernam Bombarum Galli!
+Salve in Tabernam Bombarum Galli!
 IDS_SHOPWELCOME6E
-Salve ad Tabernam Ferrorum Galli!
+Salve in Tabernam Armorum Galli!
 IDS_SHOPWELCOME6F
-Salve ad Lustrum Galli!
+Salve in Lustrum Galli!
 IDS_SHOPWELCOME6G
-Salve ad Catastam Galli!
+Salve in Catastam Galli!
 IDS_SHOPWELCOME6H
-Salve ad Aleatorium Galli!
+Salve in Aleatorium Galli!
 IDS_SHOPWELCOME6I
-Salve ad Tabernam Generalem Galli!
+Salve in Tabernam Generalem Galli!
 IDS_SHOPWELCOME7A
-Salve ad Tabernam Generalem Horatii!
+Salve in Tabernam Generalem Horatii!
 IDS_SHOPWELCOME7B
-Salve ad Tabernam Specialum Horatii!
+Salve in Tabernam Specialum Horatii!
 IDS_SHOPWELCOME7C
-Salve ad Tabernam Tegimentis Horatii!
+Salve in Tabernam Tegimentis Horatii!
 IDS_SHOPWELCOME7D
-Salve ad Tabernam Bombarum Horatii!
+Salve in Tabernam Bombarum Horatii!
 IDS_SHOPWELCOME7E
-Salve ad Tabernam Ferrorum Horatii!
+Salve in Tabernam Armorum Horatii!
 IDS_SHOPWELCOME7F
-Salve ad Lustrum Horatii!
+Salve in Lustrum Horatii!
 IDS_SHOPWELCOME7G
-Salve ad Catastam Horatii!
+Salve in Catastam Horatii!
 IDS_SHOPWELCOME7H
-Salve ad Aleatorium Horatii!
+Salve in Aleatorium Horatii!
 IDS_SHOPWELCOME7I
-Salve ad Tabernam Generalem Horatii!
+Salve in Tabernam Generalem Horatii!
 IDS_SHOPWELCOME8A
-Salve ad Tabernam Generalem Ignoti!
+Salve in Tabernam Generalem Ignoti!
 IDS_SHOPWELCOME8B
-Salve ad Tabernam Specialum Ignoti!
+Salve in Tabernam Specialum Ignoti!
 IDS_SHOPWELCOME8C
-Salve ad Tabernam Tegimentis Ignoti!
+Salve in Tabernam Tegimentis Ignoti!
 IDS_SHOPWELCOME8D
-Salve ad Tabernam Bombarum Ignoti!
+Salve in Tabernam Bombarum Ignoti!
 IDS_SHOPWELCOME8E
-Salve ad Tabernam Ferrorum Ignoti!
+Salve in Tabernam Armorum Ignoti!
 IDS_SHOPWELCOME8F
-Salve ad Lustrum Ignoti!
+Salve in Lustrum Ignoti!
 IDS_SHOPWELCOME8G
-Salve ad Catastam Ignoti!
+Salve in Catastam Ignoti!
 IDS_SHOPWELCOME8H
-Salve ad Aleatorium Ignoti!
+Salve in Aleatorium Ignoti!
 IDS_SHOPWELCOME8I
-Salve ad Tabernam Generalem Ignoti!
+Salve in Tabernam Generalem Ignoti!
 IDS_SHOPWELCOME9A
-Salve ad Tabernam Generalem Julii!
+Salve in Tabernam Generalem Julii!
 IDS_SHOPWELCOME9B
-Salve ad Tabernam Specialum Julii!
+Salve in Tabernam Specialum Julii!
 IDS_SHOPWELCOME9C
-Salve ad Tabernam Tegimentis Julii!
+Salve in Tabernam Tegimentis Julii!
 IDS_SHOPWELCOME9D
-Salve ad Tabernam Bombarum Julii!
+Salve in Tabernam Bombarum Julii!
 IDS_SHOPWELCOME9E
-Salve ad Tabernam Ferrorum Julii!
+Salve in Tabernam Armorum Julii!
 IDS_SHOPWELCOME9F
-Salve ad Lustrum Julii!
+Salve in Lustrum Julii!
 IDS_SHOPWELCOME9G
-Salve ad Catastam Julii!
+Salve in Catastam Julii!
 IDS_SHOPWELCOME9H
-Salve ad Aleatorium Julii!
+Salve in Aleatorium Julii!
 IDS_SHOPWELCOME9I
-Salve ad Tabernam Generalem Julii!
+Salve in Tabernam Generalem Julii!
 IDS_SHOPWELCOME10A
-Salve ad Tabernam Generalem Klaudii!
+Salve in Tabernam Generalem Klaudii!
 IDS_SHOPWELCOME10B
-Salve ad Tabernam Specialum Klaudii!
+Salve in Tabernam Specialum Klaudii!
 IDS_SHOPWELCOME10C
-Salve ad Tabernam Tegimentis Klaudii!
+Salve in Tabernam Tegimentis Klaudii!
 IDS_SHOPWELCOME10D
-Salve ad Tabernam Bombarum Klaudii!
+Salve in Tabernam Bombarum Klaudii!
 IDS_SHOPWELCOME10E
-Salve ad Tabernam Ferrorum Klaudii!
+Salve in Tabernam Armorum Klaudii!
 IDS_SHOPWELCOME10F
-Salve ad Lustrum Klaudii!
+Salve in Lustrum Klaudii!
 IDS_SHOPWELCOME10G
-Salve ad Catastam Klaudii!
+Salve in Catastam Klaudii!
 IDS_SHOPWELCOME10H
-Salve ad Aleatorium Klaudii!
+Salve in Aleatorium Klaudii!
 IDS_SHOPWELCOME10I
-Salve ad Tabernam Generalem Klaudii!
+Salve in Tabernam Generalem Klaudii!
 IDS_SHOPWELCOME11A
-Salve ad Tabernam Generalem Lucredii!
+Salve in Tabernam Generalem Lucredii!
 IDS_SHOPWELCOME11B
-Salve ad Tabernam Specialum Lucredii!
+Salve in Tabernam Specialum Lucredii!
 IDS_SHOPWELCOME11C
-Salve ad Tabernam Tegimentis Lucredii!
+Salve in Tabernam Tegimentis Lucredii!
 IDS_SHOPWELCOME11D
-Salve ad Tabernam Bombarum Lucredii!
+Salve in Tabernam Bombarum Lucredii!
 IDS_SHOPWELCOME11E
-Salve ad Tabernam Ferrorum Lucredii!
+Salve in Tabernam Armorum Lucredii!
 IDS_SHOPWELCOME11F
-Salve ad Lustrum Lucredii!
+Salve in Lustrum Lucredii!
 IDS_SHOPWELCOME11G
-Salve ad Catastam Lucredii!
+Salve in Catastam Lucredii!
 IDS_SHOPWELCOME11H
-Salve ad Aleatorium Lucredii!
+Salve in Aleatorium Lucredii!
 IDS_SHOPWELCOME11I
-Salve ad Tabernam Generalem Lucredii!
+Salve in Tabernam Generalem Lucredii!
 IDS_SHOPWELCOME12A
-Salve ad Tabernam Generalem Marci!
+Salve in Tabernam Generalem Marci!
 IDS_SHOPWELCOME12B
-Salve ad Tabernam Specialum Marci!
+Salve in Tabernam Specialum Marci!
 IDS_SHOPWELCOME12C
-Salve ad Tabernam Tegimentis Marci!
+Salve in Tabernam Tegimentis Marci!
 IDS_SHOPWELCOME12D
-Salve ad Tabernam Bombarum Marci!
+Salve in Tabernam Bombarum Marci!
 IDS_SHOPWELCOME12E
-Salve ad Tabernam Ferrorum Marci!
+Salve in Tabernam Armorum Marci!
 IDS_SHOPWELCOME12F
-Salve ad Lustrum Marci!
+Salve in Lustrum Marci!
 IDS_SHOPWELCOME12G
-Salve ad Catastam Marci!
+Salve in Catastam Marci!
 IDS_SHOPWELCOME12H
-Salve ad Aleatorium Marci!
+Salve in Aleatorium Marci!
 IDS_SHOPWELCOME12I
-Salve ad Tabernam Generalem Marci!
+Salve in Tabernam Generalem Marci!
 IDS_SHOPWELCOME13A
-Salve ad Tabernam Generalem Neronis!
+Salve in Tabernam Generalem Neronis!
 IDS_SHOPWELCOME13B
-Salve ad Tabernam Specialum Neronis!
+Salve in Tabernam Specialum Neronis!
 IDS_SHOPWELCOME13C
-Salve ad Tabernam Tegimentis Neronis!
+Salve in Tabernam Tegimentis Neronis!
 IDS_SHOPWELCOME13D
-Salve ad Tabernam Bombarum Neronis!
+Salve in Tabernam Bombarum Neronis!
 IDS_SHOPWELCOME13E
-Salve ad Tabernam Ferrorum Neronis!
+Salve in Tabernam Armorum Neronis!
 IDS_SHOPWELCOME13F
-Salve ad Lustrum Neronis!
+Salve in Lustrum Neronis!
 IDS_SHOPWELCOME13G
-Salve ad Catastam Neronis!
+Salve in Catastam Neronis!
 IDS_SHOPWELCOME13H
-Salve ad Aleatorium Neronis!
+Salve in Aleatorium Neronis!
 IDS_SHOPWELCOME13I
-Salve ad Tabernam Generalem Neronis!
+Salve in Tabernam Generalem Neronis!
 IDS_SHOPWELCOME14A
-Salve ad Tabernam Generalem Octavii!
+Salve in Tabernam Generalem Octavii!
 IDS_SHOPWELCOME14B
-Salve ad Tabernam Specialum Octavii!
+Salve in Tabernam Specialum Octavii!
 IDS_SHOPWELCOME14C
-Salve ad Tabernam Tegimentis Octavii!
+Salve in Tabernam Tegimentis Octavii!
 IDS_SHOPWELCOME14D
-Salve ad Tabernam Bombarum Octavii!
+Salve in Tabernam Bombarum Octavii!
 IDS_SHOPWELCOME14E
-Salve ad Tabernam Ferrorum Octavii!
+Salve in Tabernam Armorum Octavii!
 IDS_SHOPWELCOME14F
-Salve ad Lustrum Octavii!
+Salve in Lustrum Octavii!
 IDS_SHOPWELCOME14G
-Salve ad Catastam Octavii!
+Salve in Catastam Octavii!
 IDS_SHOPWELCOME14H
-Salve ad Aleatorium Octavii!
+Salve in Aleatorium Octavii!
 IDS_SHOPWELCOME14I
-Salve ad Tabernam Generalem Octavii!
+Salve in Tabernam Generalem Octavii!
 IDS_SHOPWELCOME15A
-Salve ad Tabernam Generalem Publii!
+Salve in Tabernam Generalem Publii!
 IDS_SHOPWELCOME15B
-Salve ad Tabernam Specialum Publii!
+Salve in Tabernam Specialum Publii!
 IDS_SHOPWELCOME15C
-Salve ad Tabernam Tegimentis Publii!
+Salve in Tabernam Tegimentis Publii!
 IDS_SHOPWELCOME15D
-Salve ad Tabernam Bombarum Publii!
+Salve in Tabernam Bombarum Publii!
 IDS_SHOPWELCOME15E
-Salve ad Tabernam Ferrorum Publii!
+Salve in Tabernam Armorum Publii!
 IDS_SHOPWELCOME15F
-Salve ad Lustrum Publii!
+Salve in Lustrum Publii!
 IDS_SHOPWELCOME15G
-Salve ad Catastam Publii!
+Salve in Catastam Publii!
 IDS_SHOPWELCOME15H
-Salve ad Aleatorium Publii!
+Salve in Aleatorium Publii!
 IDS_SHOPWELCOME15I
-Salve ad Tabernam Generalem Publii!
+Salve in Tabernam Generalem Publii!
 IDS_SHOPWELCOME16A
-Salve ad Tabernam Generalem Quinti!
+Salve in Tabernam Generalem Quinti!
 IDS_SHOPWELCOME16B
-Salve ad Tabernam Specialum Quinti!
+Salve in Tabernam Specialum Quinti!
 IDS_SHOPWELCOME16C
-Salve ad Tabernam Tegimentis Quinti!
+Salve in Tabernam Tegimentis Quinti!
 IDS_SHOPWELCOME16D
-Salve ad Tabernam Bombarum Quinti!
+Salve in Tabernam Bombarum Quinti!
 IDS_SHOPWELCOME16E
-Salve ad Tabernam Ferrorum Quinti!
+Salve in Tabernam Armorum Quinti!
 IDS_SHOPWELCOME16F
-Salve ad Lustrum Quinti!
+Salve in Lustrum Quinti!
 IDS_SHOPWELCOME16G
-Salve ad Catastam Quinti!
+Salve in Catastam Quinti!
 IDS_SHOPWELCOME16H
-Salve ad Aleatorium Quinti!
+Salve in Aleatorium Quinti!
 IDS_SHOPWELCOME16I
-Salve ad Tabernam Generalem Quinti!
+Salve in Tabernam Generalem Quinti!
 IDS_SHOPWELCOME17A
-Salve ad Tabernam Generalem Reguli!
+Salve in Tabernam Generalem Reguli!
 IDS_SHOPWELCOME17B
-Salve ad Tabernam Specialum Reguli!
+Salve in Tabernam Specialum Reguli!
 IDS_SHOPWELCOME17C
-Salve ad Tabernam Tegimentis Reguli!
+Salve in Tabernam Tegimentis Reguli!
 IDS_SHOPWELCOME17D
-Salve ad Tabernam Bombarum Reguli!
+Salve in Tabernam Bombarum Reguli!
 IDS_SHOPWELCOME17E
-Salve ad Tabernam Ferrorum Reguli!
+Salve in Tabernam Armorum Reguli!
 IDS_SHOPWELCOME17F
-Salve ad Lustrum Reguli!
+Salve in Lustrum Reguli!
 IDS_SHOPWELCOME17G
-Salve ad Catastam Reguli!
+Salve in Catastam Reguli!
 IDS_SHOPWELCOME17H
-Salve ad Aleatorium Reguli!
+Salve in Aleatorium Reguli!
 IDS_SHOPWELCOME17I
-Salve ad Tabernam Generalem Reguli!
+Salve in Tabernam Generalem Reguli!
 IDS_SHOPWELCOME18A
-Salve ad Tabernam Generalem Senecae!
+Salve in Tabernam Generalem Senecae!
 IDS_SHOPWELCOME18B
-Salve ad Tabernam Specialum Senecae!
+Salve in Tabernam Specialum Senecae!
 IDS_SHOPWELCOME18C
-Salve ad Tabernam Tegimentis Senecae!
+Salve in Tabernam Tegimentis Senecae!
 IDS_SHOPWELCOME18D
-Salve ad Tabernam Bombarum Senecae!
+Salve in Tabernam Bombarum Senecae!
 IDS_SHOPWELCOME18E
-Salve ad Tabernam Ferrorum Senecae!
+Salve in Tabernam Armorum Senecae!
 IDS_SHOPWELCOME18F
-Salve ad Lustrum Senecae!
+Salve in Lustrum Senecae!
 IDS_SHOPWELCOME18G
-Salve ad Catastam Senecae!
+Salve in Catastam Senecae!
 IDS_SHOPWELCOME18H
-Salve ad Aleatorium Senecae!
+Salve in Aleatorium Senecae!
 IDS_SHOPWELCOME18I
-Salve ad Tabernam Generalem Senecae!
+Salve in Tabernam Generalem Senecae!
 IDS_SHOPWELCOME19A
-Salve ad Tabernam Generalem Tiberii!
+Salve in Tabernam Generalem Tiberii!
 IDS_SHOPWELCOME19B
-Salve ad Tabernam Specialum Tiberii!
+Salve in Tabernam Specialum Tiberii!
 IDS_SHOPWELCOME19C
-Salve ad Tabernam Tegimentis Tiberii!
+Salve in Tabernam Tegimentis Tiberii!
 IDS_SHOPWELCOME19D
-Salve ad Tabernam Bombarum Tiberii!
+Salve in Tabernam Bombarum Tiberii!
 IDS_SHOPWELCOME19E
-Salve ad Tabernam Ferrorum Tiberii!
+Salve in Tabernam Armorum Tiberii!
 IDS_SHOPWELCOME19F
-Salve ad Lustrum Tiberii!
+Salve in Lustrum Tiberii!
 IDS_SHOPWELCOME19G
-Salve ad Catastam Tiberii!
+Salve in Catastam Tiberii!
 IDS_SHOPWELCOME19H
-Salve ad Aleatorium Tiberii!
+Salve in Aleatorium Tiberii!
 IDS_SHOPWELCOME19I
-Salve ad Tabernam Generalem Tiberii!
+Salve in Tabernam Generalem Tiberii!
 IDS_SHOPWELCOME20A
-Salve ad Tabernam Generalem Vinicii!
+Salve in Tabernam Generalem Vinicii!
 IDS_SHOPWELCOME20B
-Salve ad Tabernam Specialum Vinicii!
+Salve in Tabernam Specialum Vinicii!
 IDS_SHOPWELCOME20C
-Salve ad Tabernam Tegimentis Vinicii!
+Salve in Tabernam Tegimentis Vinicii!
 IDS_SHOPWELCOME20D
-Salve ad Tabernam Bombarum Vinicii!
+Salve in Tabernam Bombarum Vinicii!
 IDS_SHOPWELCOME20E
-Salve ad Tabernam Ferrorum Vinicii!
+Salve in Tabernam Armorum Vinicii!
 IDS_SHOPWELCOME20F
-Salve ad Lustrum Vinicii!
+Salve in Lustrum Vinicii!
 IDS_SHOPWELCOME20G
-Salve ad Catastam Vinicii!
+Salve in Catastam Vinicii!
 IDS_SHOPWELCOME20H
-Salve ad Aleatorium Vinicii!
+Salve in Aleatorium Vinicii!
 IDS_SHOPWELCOME20I
-Salve ad Tabernam Generalem Vinicii!
+Salve in Tabernam Generalem Vinicii!
 IDS_SHOPWELCOME21A
-Salve ad Tabernam Generalem Virgilii!
+Salve in Tabernam Generalem Virgilii!
 IDS_SHOPWELCOME21B
-Salve ad Tabernam Specialum Virgilii!
+Salve in Tabernam Specialum Virgilii!
 IDS_SHOPWELCOME21C
-Salve ad Tabernam Tegimentis Virgilii!
+Salve in Tabernam Tegimentis Virgilii!
 IDS_SHOPWELCOME21D
-Salve ad Tabernam Bombarum Virgilii!
+Salve in Tabernam Bombarum Virgilii!
 IDS_SHOPWELCOME21E
-Salve ad Tabernam Ferrorum Virgilii!
+Salve in Tabernam Armorum Virgilii!
 IDS_SHOPWELCOME21F
-Salve ad Lustrum Virgilii!
+Salve in Lustrum Virgilii!
 IDS_SHOPWELCOME21G
-Salve ad Catastam Virgilii!
+Salve in Catastam Virgilii!
 IDS_SHOPWELCOME21H
-Salve ad Aleatorium Virgilii!
+Salve in Aleatorium Virgilii!
 IDS_SHOPWELCOME21I
-Salve ad Tabernam Generalem Virgilii!
+Salve in Tabernam Generalem Virgilii!
 IDS_SHOPWELCOME22A
-Salve ad Tabernam Generalem Vinicii!
+Salve in Tabernam Generalem Vinicii!
 IDS_SHOPWELCOME22B
-Salve ad Tabernam Specialum Vinicii!
+Salve in Tabernam Specialum Vinicii!
 IDS_SHOPWELCOME22C
-Salve ad Tabernam Tegimentis Vinicii!
+Salve in Tabernam Tegimentis Vinicii!
 IDS_SHOPWELCOME22D
-Salve ad Tabernam Bombarum Vinicii!
+Salve in Tabernam Bombarum Vinicii!
 IDS_SHOPWELCOME22E
-Salve ad Tabernam Ferrorum Vinicii!
+Salve in Tabernam Armorum Vinicii!
 IDS_SHOPWELCOME22F
-Salve ad Lustrum Vinicii!
+Salve in Lustrum Vinicii!
 IDS_SHOPWELCOME22G
-Salve ad Catastam Vinicii!
+Salve in Catastam Vinicii!
 IDS_SHOPWELCOME22H
-Salve ad Aleatorium Vinicii!
+Salve in Aleatorium Vinicii!
 IDS_SHOPWELCOME22I
-Salve ad Tabernam Generalem Vinicii!
+Salve in Tabernam Generalem Vinicii!
 IDS_SHOPWELCOME23A
-Salve ad Tabernam Generalem Pseudoli!
+Salve in Tabernam Generalem Pseudoli!
 IDS_SHOPWELCOME23B
-Salve ad Tabernam Specialum Pseudoli!
+Salve in Tabernam Specialum Pseudoli!
 IDS_SHOPWELCOME23C
-Salve ad Tabernam Tegimentis Pseudoli!
+Salve in Tabernam Tegimentis Pseudoli!
 IDS_SHOPWELCOME23D
-Salve ad Tabernam Bombarum Pseudoli!
+Salve in Tabernam Bombarum Pseudoli!
 IDS_SHOPWELCOME23E
-Salve ad Tabernam Ferrorum Pseudoli!
+Salve in Tabernam Armorum Pseudoli!
 IDS_SHOPWELCOME23F
-Salve ad Lustrum Pseudoli!
+Salve in Lustrum Pseudoli!
 IDS_SHOPWELCOME23G
-Salve ad Catastam Pseudoli!
+Salve in Catastam Pseudoli!
 IDS_SHOPWELCOME23H
-Salve ad Aleatorium Pseudoli!
+Salve in Aleatorium Pseudoli!
 IDS_SHOPWELCOME23I
-Salve ad Tabernam Generalem Pseudoli!
+Salve in Tabernam Generalem Pseudoli!
 IDS_SHOPWELCOME24A
-Salve ad Tabernam Generalem Iustiani!
+Salve in Tabernam Generalem Iustiani!
 IDS_SHOPWELCOME24B
-Salve ad Tabernam Specialum Iustiani!
+Salve in Tabernam Specialum Iustiani!
 IDS_SHOPWELCOME24C
-Salve ad Tabernam Tegimentis Iustiani!
+Salve in Tabernam Tegimentis Iustiani!
 IDS_SHOPWELCOME24D
-Salve ad Tabernam Bombarum Iustiani!
+Salve in Tabernam Bombarum Iustiani!
 IDS_SHOPWELCOME24E
-Salve ad Tabernam Ferrorum Iustiani!
+Salve in Tabernam Armorum Iustiani!
 IDS_SHOPWELCOME24F
-Salve ad Lustrum Iustiani!
+Salve in Lustrum Iustiani!
 IDS_SHOPWELCOME24G
-Salve ad Catastam Iustiani!
+Salve in Catastam Iustiani!
 IDS_SHOPWELCOME24H
-Salve ad Aleatorium Iustiani!
+Salve in Aleatorium Iustiani!
 IDS_SHOPWELCOME24I
-Salve ad Tabernam Generalem Iustiani!
+Salve in Tabernam Generalem Iustiani!
 IDS_SHOPWELCOME25A
-Salve ad Tabernam Generalem Ziggii!
+Salve in Tabernam Generalem Ziggii!
 IDS_SHOPWELCOME25B
-Salve ad Tabernam Specialum Ziggii!
+Salve in Tabernam Specialum Ziggii!
 IDS_SHOPWELCOME25C
-Salve ad Tabernam Tegimentis Ziggii!
+Salve in Tabernam Tegimentis Ziggii!
 IDS_SHOPWELCOME25D
-Salve ad Tabernam Bombarum Ziggii!
+Salve in Tabernam Bombarum Ziggii!
 IDS_SHOPWELCOME25E
-Salve ad Tabernam Ferrorum Ziggii!
+Salve in Tabernam Armorum Ziggii!
 IDS_SHOPWELCOME25F
-Salve ad Lustrum Ziggii!
+Salve in Lustrum Ziggii!
 IDS_SHOPWELCOME25G
-Salve ad Catastam Ziggii!
+Salve in Catastam Ziggii!
 IDS_SHOPWELCOME25H
-Salve ad Aleatorium Ziggii!
+Salve in Aleatorium Ziggii!
 IDS_SHOPWELCOME25I
-Salve ad Tabernam Generalem Ziggii!
+Salve in Tabernam Generalem Ziggii!
 IDS_BUY_ITEM_ROPEPILE
 Buy Rope Pile
 IDS_BUY_ITEM_BOMBBAG
@@ -1819,7 +1819,7 @@ INFERNUS 5-3
 IDS_LEVEL_5_4
 INFERNUS 5-4
 IDS_LEVEL_MARKET
-VENALICIUM NIGRO
+MERCATUS MALIFICUS
 IDS_LEVEL_CASTLE
 MOENE INHAESUM
 IDS_LEVEL_MOTHERSHIP
@@ -1867,7 +1867,7 @@ IDS_COMPLETED_5_2
 IDS_COMPLETED_5_3
 5-3 FACTUM!
 IDS_COMPLETED_MARKET
-VENALICIUM FACTUM!
+MERCATUS FACTUM!
 IDS_COMPLETED_CASTLE
 MOENE FACTUM!
 IDS_COMPLETED_MOTHERSHIP
@@ -1927,7 +1927,7 @@ Pretium:
 IDS_GUIDE_BACK
 @B Revertere
 IDS_GUIDE_MAINMENU
-@B Revertere ad truncum
+@B Revertere Radicitus
 IDS_SETTINGS
 PRAEFERENTIAE
 IDS_ENDING_HERO
@@ -1937,7 +1937,7 @@ TU VICISTI
 IDS_ENDING_THANKS
 Tibi gracias pro ludente!
 IDS_LEVELEND_CONTINUE
-@A Procedare ad Tabulatum Posterius
+@A Procedare ad Tabulatum Posterus
 IDS_SPIN_WHEEL
 Torquere Rotam
 IDS_CHOOSE_ADVENTURER
@@ -2167,7 +2167,7 @@ Nonne dare posses duo bombam uti id tollere possum?
 IDS_SHORTCUT_BOMB3
 Nonne dare posses tres bombam uti id tollere possum?
 IDS_SHORTCUT_ROPES
-Brevem defodebam, sed fovea alta in via est.
+Via fodebam, sed fovea alta impedit.
 IDS_SHORTCUT_ROPE1
 Nonne dare posses funem uti descendere in pace possum?
 IDS_SHORTCUT_ROPE2
@@ -2175,27 +2175,27 @@ Nonne dare posses duo funem uti descendere in pace possum?
 IDS_SHORTCUT_ROPE3
 Nonne dare posses tres funem uti descendere in pace possum?
 IDS_SHORTCUT_MONEY1
-I was digging a shortcut, but some of my equipment broke.
+Via fodebam, sed aliqui armamentorum succubuerunt.
 IDS_SHORTCUT_MONEY2
-Nonne dare posses decem millia sestertii pro id redimere?
+Nonne dare posses decem millia sestertii pro illa redimere?
 IDS_SHORTCUT_FAIL
 Infeliciter, non habes satis! Mox fortisan!
 IDS_SHORTCUT_SHOTGUN_NEXT1
-Mox me vides, portas canonem?
+Mox convenimus, fers canonem?
 IDS_SHORTCUT_SHOTGUN_NEXT2
-I'll need something to protect myself from the monsters down here.
+Requirebo aliquid tegere me ipsum a monstra deorsum.
 IDS_SHORTCUT_SHOTGUN
-I was digging a shortcut, but there are a lot of monsters down there.
+Via fodebam, sed monstra multa sunt deorsum.
 IDS_SHORTCUT_SHOTGUN_HAVE
-Video uti canonem portas! Dabis id mihi?
+Video uti canonem portas! Dabis illud mihi?
 IDS_SHORTCUT_KEY_NEXT1
-Mox me vides, portas clavem auream a fodinis?
+Mox convenimus, fers clavem auream a fodinis?
 IDS_SHORTCUT_KEY_NEXT2
-I'll need it to get into a locked chamber that's coming up.
+Requirebo illam ingredi cellam clausum prior.
 IDS_SHORTCUT_KEY
-I was digging a shortcut, but I reached a locked door.
+Via fodebam, sed perveni claus.
 IDS_SHORTCUT_KEY_HAVE
-Illa clavis uti tenes videtur par esset! Dabis id mihi?
+Illa clavis uti tenes videtur par esset! Dabis illam mihi?
 IDS_GAMEOVERDESC_YAMA
 Animus meus decretus indignus esse a Rege Inferni.
 IDS_GUIDE_QUICKRESTART
@@ -2227,9 +2227,9 @@ Experis Software Developer Engineer in Test
 IDS_CREDITS_EXPERISTESTASSOC
 Experis Test Associates
 IDS_GAMEOVER_SACRIFICED
-Sacrificed
+Litatus
 IDS_GAMEOVERDESC_SACRIFICED
-I offered myself to the Black Goddess.
+Litavi me ipsum Deae Malifica.
 IDS_GAMEOVER_OLDAGE
 Senectus
 IDS_GAMEOVER_UNKNOWN
@@ -2343,17 +2343,17 @@ Spelunky Save Game
 IDS_UNLOCKINFULL
 Unlock in Full Version
 IDS_JUNGLE
-TRUNCATIS
+ARUNDINETUM
 IDS_LEVEL_2_1B
-TRUNCATIS 2-1
+ARUNDINETUM 2-1
 IDS_LEVEL_2_2B
-TRUNCATIS 2-2
+ARUNDINETUM 2-2
 IDS_LEVEL_2_3B
-TRUNCATIS 2-3
+ARUNDINETUM 2-3
 IDS_LEVEL_2_4B
-TRUNCATIS 2-4
+ARUNDINETUM 2-4
 IDS_JOURNAL_JUNGLE
-Truncatis
+Arundinetum
 IDS_BUY_ITEM_MYSTERYBOX
 Rem mysterium redimere
 IDS_LEVEL_OLMEC
@@ -2373,7 +2373,7 @@ You have earned an Avatar Award! Upgrade to the full version now to unlock it.
 IDS_WARNING_SAVEOVERWRITE
 Do you really want to overwrite your saved game? Your previous save will be lost!
 IDS_PLAYERPROFILE_SPECIALWINS
-Special Wins:
+Victoriae Eximiae:
 IDS_ERROR_RESET_SAVE
 This will reset your save game file, including all statistics and unlocked shortcuts, journal entries, and characters. Do you really want to do this?
 IDS_ERROR_RESET_SAVE_2
@@ -2385,21 +2385,21 @@ IDS_SCORE_DETAILS
 IDS_ERROR_LB_READFAIL
 The leaderboard could not be read.
 IDS_PREV_DAILY
-Previous Daily
+Diurnum Prior
 IDS_NEXT_DAILY
-Next Daily
+Diurnum Posterum
 IDS_BUT_PREV_DAILY
-@< Previous Daily
+@< Diurnum Prior
 IDS_BUT_NEXT_DAILY
-@> Next Daily
+@> Diurnum Posterum
 IDS_TOP_TEN_DAILY
-'s Top Ten Daily Scores
+: Decem Optime Praedae Diurnae
 IDS_FINDING_LEADERBOARD
-FINDING LEADERBOARD...
+QUAERO TABULATUM OPTIMORUM
 IDS_DAILY_ALLTIME
 DAILY ALL-TIME
 IDS_AVG_OF_DAILY
-(Average of Top Ten Daily Scores)
+(Corpus Decem Optime Praedarum Diurnarum)
 IDS_ANY_KEY
 Press Any Key
 IDS_KEY_ACTION
@@ -2451,13 +2451,13 @@ SUPTILITAS
 IDS_HNO_RESOLUTION
 Suptilitas
 IDS_MAINMENU_DAILY_CHALLENGE
-Arduum Diei
+Arduum Diurnum
 IDS_MAINMENU_DAILYDESC
-Contenda alium spelaeologos in hodiernum ausum. Habes unicum potestatem!
+Contenda alium spelaeologos in diurum. Habes unicum potestatem!
 IDS_MAINMENU_DAILYCHECKING
-Checking for existing daily score. Please wait.
+Quaero praedam diurni. Si vis mane.
 IDS_MAINMENU_DAILYLOCKED
-Iam lusisti arduum hodie. Proba iterum cras!
+Iamiam lusisti diurnum hodie. Proba iterum cras!
 IDS_GUIDE_REMAP_KEYS
 @A Mutare Mutatra
 IDS_GUIDE_DEFAULT_KEYS
