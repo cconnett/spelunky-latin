@@ -85,37 +85,37 @@ Funes potiaris rupes altas et descendeas tute in cavis. Pressa @Y iacere illum.
 IDS_HOWTOPLAY1_3
 Bombae potestant excindere parietes. Pressa @B iacere illam... sed cautus es!
 IDS_HOWTOPLAY1_4
-Taurea tua est optimus defensio contra the monsters that inhabit the caves. Press @X to attack with it.
+Taurea tua est optimus defensio contra monstra quae speluncas inhabitant. Pressa @X illacum aggredi.
 IDS_HOWTOPLAY2_1
-Wooden crates are littered around the caves. Whip them open to find supplies to aid you on your adventure.
+Caveae ligneae circa speluncas dilatae est. Illas aggredere nancisci apparatus adiuvare te cum auso tuo.
 IDS_HOWTOPLAY2_2
-Ropes and bombs are the most common items found in crates, but if you're lucky you may find better things!
+Funes et bombae communissimae nanctae in caveis, sed si felix es, nanciscaris res meliores!
 IDS_HOWTOPLAY2_3
-Treasure chests are filled with valuable gems! Most of them have weak locks that can be whipped open.
+Arcae tentae sunt cum gemmis concupiscibilibus! Plurimae illarum habent clostella quae potent rupta esse.
 IDS_HOWTOPLAY2_4
-Your score is determined by how much loot you've collected. Amass a large fortune of gold and gems!
+Numerus tuus computatus est via quantam praedam collegisti. Cumula censum auri et gemmarum!
 IDS_HOWTOPLAY3_1
-This is a shopkeeper. You can buy all sorts of items from his shop, but be careful not to upset him.
+Iste est coponis. Potes redimere res a taberna ea, sed cautus es eum non irritare.
 IDS_HOWTOPLAY3_2
-Items for sale have a dollar sign over them. Some shops sell weapons, like this shotgun.
+Res venundatae habent "$" super illis. Aliquae tabernae vendent armas, sicut cannonem istum.
 IDS_HOWTOPLAY3_3
-You can use your loot to purchase items in the shops. Be sure to spend it wisely!
+Potes absumere praedam tuam redimere res a tabernis. Absume sapienter!
 IDS_HOWTOPLAY3_4
-Shops may also supply a variety of other useful tools. This compass, for example, points you toward the exit.
+Tabernae quoque praebeant variantiam aliorum opportunorum instrumentorum. Iste declinatio, exempli gratia, te derigat ad portam.
 IDS_HOWTOPLAY4_1
-At the bottom of each level is an exit to deeper parts of the caves. That's your goal!
+Funditus omni tabulati est porta ad spacios altiores speluncarum. Ille est destinatum tuum!
 IDS_HOWTOPLAY4_2
-Lovely damsels have gotten trapped down here. If you bring them safely to the exits they'll reward you with health.
+Puellae pulchrae cohibitae fiverunt deorsum. Si fers illas ad portam, te remunerabint cum valetudine.
 IDS_HOWTOPLAY4_3
-You can also bring these golden idols to the exits for big money rewards. They're usually guarded by deadly traps.
+Quoque potes ferre isti idoli aurati ad portas pro fructum magnam pecuniae. Cotidie illi custodientur a insidiis atris.
 IDS_HOWTOPLAY4_4
-That covers the basics, but there's so much more to discover once you start playing! Have fun!
+Illae regulas comprehenent, sed sunt res multae reperiri ubi incipes ludare! Delectare!
 IDS_JOURNAL
 Commentarium
 IDS_JOURNAL_PLACES
 Loci
 IDS_JOURNAL_MONSTERS
-Moles
+Monstra
 IDS_JOURNAL_ITEMS
 Res
 IDS_JOURNAL_TRAPS
@@ -2175,21 +2175,21 @@ Nonne dare posses duo funem uti descendere in pace possum?
 IDS_SHORTCUT_ROPE3
 Nonne dare posses tres funem uti descendere in pace possum?
 IDS_SHORTCUT_MONEY1
-Via fodebam, sed aliqui armamentorum succubuerunt.
+Via fodebam, sed aliqui armamentorum succumbuerunt.
 IDS_SHORTCUT_MONEY2
 Nonne dare posses decem millia sestertii pro illa redimere?
 IDS_SHORTCUT_FAIL
 Infeliciter, non habes satis! Mox fortisan!
 IDS_SHORTCUT_SHOTGUN_NEXT1
-Mox convenimus, fers canonem?
+Mox congredimur, fers cannonem?
 IDS_SHORTCUT_SHOTGUN_NEXT2
-Requirebo aliquid tegere me ipsum a monstra deorsum.
+Requirebo aliquid tegere me a monstra deorsum.
 IDS_SHORTCUT_SHOTGUN
 Via fodebam, sed monstra multa sunt deorsum.
 IDS_SHORTCUT_SHOTGUN_HAVE
-Video uti canonem portas! Dabis illud mihi?
+Video uti cannonem portas! Dabis illum mihi?
 IDS_SHORTCUT_KEY_NEXT1
-Mox convenimus, fers clavem auream a fodinis?
+Mox congredimur, fers clavem auream a fodinis?
 IDS_SHORTCUT_KEY_NEXT2
 Requirebo illam ingredi cellam clausum prior.
 IDS_SHORTCUT_KEY
@@ -2229,7 +2229,7 @@ Experis Test Associates
 IDS_GAMEOVER_SACRIFICED
 Litatus
 IDS_GAMEOVERDESC_SACRIFICED
-Litavi me ipsum Deae Malifica.
+Litavi me Deae Malifica.
 IDS_GAMEOVER_OLDAGE
 Senectus
 IDS_GAMEOVER_UNKNOWN
