@@ -1405,17 +1405,17 @@ So what do you say?*I still need $
 IDS_TUNNELMAN3_2
  to build this shortcut.
 IDS_TUNNELMAN4
-Bummer. I'll never get this tunnel finished.
+Ei. Numquam complebam viam istam.
 IDS_TUNNELMAN5
-Thanks! You won't regret it.
+Gracia tibi! Non paenitebas!
 IDS_TUNNELMAN6
-Alright! Now I'll have this tunnel finished in no time!
+Euge! Complebam viam in nullo tempore!
 IDS_DONATION
 DONATION
 IDS_DONATION_GUIDE
 @L Change Amount*@A Confirm
 IDS_KALI_ACCEPTS
-Kali accepts your sacrifice!
+Kali hostiam tuam accipet!
 IDS_KALI_INVIGORATED
 Vigoratus es!
 IDS_KALI_BESTOWS
@@ -1423,29 +1423,29 @@ Donat praemium tibi!
 IDS_KALI_SATCHEL
 Tuam capsam sentiatur plena!
 IDS_KALI_ECSTATIC
-Eam videtur ecstatica tibi.
+Ea videtur ecstatica tibi.
 IDS_KALI_HAPPY
-Eam videtur laeta tibi.
+Ea videtur laeta tibi.
 IDS_KALI_FORGIVEN
 Ea igovi tibi.
 IDS_KALI_PLEASED
-Eam videtur contenta tibi.
+Ea videtur contenta tibi.
 IDS_KALI_ANGRY
-Eam videtur irascatur tibi.
+Ea videtur irascatur tibi.
 IDS_KALI_VERY_ANGRY
-Eam videtur nimis irascatur tibi.
+Ea videtur nimis irascatur tibi.
 IDS_KALI_ANGERED
 Irritavisti Kalidem!
 IDS_KALI_STILL_ECSTATIC
-Tamen eam videtur ecstatica tibi.
+Tamen ea videtur ecstatica tibi.
 IDS_KALI_STILL_HAPPY
-Tamen eam videtur laeta tibi.
+Tamen ea videtur laeta tibi.
 IDS_KALI_STILL_PLEASED
-Tamen eam videtur contenta tibi.
+Tamen ea videtur contenta tibi.
 IDS_LABEL_LEVEL
 Altum:
 IDS_LABEL_MONEY
-Pecunia:
+Praeda:
 IDS_LABEL_TIME
 Tempus:
 IDS_LABEL_DAMSELS
@@ -1523,7 +1523,7 @@ Abyssus
 IDS_GAMEOVER_BURNEDUP
 Ustus
 IDS_GAMEOVER_BLASTED
-Blasted
+Incensus
 IDS_GAMEOVER_DEATH
 Mors
 IDS_GAMEOVERDESC_MULTIHELL
@@ -1573,13 +1573,13 @@ Homo tikis percussit me ad mortem.
 IDS_GAMEOVERDESC_HAWKMAN
 Accipiter-homo percussit me ad mortem.
 IDS_GAMEOVERDESC_FROG
-I got squished by a frog.
+Calcatus sum a rana.
 IDS_GAMEOVERDESC_MANTRAP
-I was devoured by a mantrap.
+Devoratus sum a flore magno.
 IDS_GAMEOVERDESC_PIRANHA
-I was nibbled to death by a piranha.
+Rodor ad mortem a piranha.
 IDS_GAMEOVERDESC_JAWS
-I was torn apart by the legendary river monster.
+Dilancinatus sum a fabuloso monstro fluviali.
 IDS_GAMEOVERDESC_BEE
 Allergicus apibus esse debeo.
 IDS_GAMEOVERDESC_ACID
@@ -1631,9 +1631,9 @@ Iuva, cado etiam!
 IDS_GAMEOVERDESC_LAVA
 Crematus sum.
 IDS_GAMEOVERDESC_UFO
-I've been incinerated by a UFO laser blast.
+Depastus sum cum igne alienigeno.
 IDS_GAMEOVERDESC_SLAMMED
-I was slammed hard into a wall.
+Aspere iactus ad murum.
 IDS_GAMEOVERDESC_DIED
 Iterum mortuus sum.
 IDS_LOCKED
