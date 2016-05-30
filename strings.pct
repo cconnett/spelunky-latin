@@ -237,7 +237,7 @@ Serpens capitalis cum caputio proprio et desputo atro.
 IDS_JOURNAL_BAT
 Vespertilio
 IDS_JOURNAL_BAT_DESC
-Id mavult comsumare cimices, sed homines aggreditur si sit essuriens.
+Mavult comsumare cimices, sed homines aggreditur si sit essuriens.
 IDS_JOURNAL_SPIDER
 Aranea
 IDS_JOURNAL_SPIDER_DESC
@@ -1829,53 +1829,53 @@ VERMIS
 IDS_LEVEL_COG
 URBIS AURAE
 IDS_COMPLETED_1_1
-1-1 FACTUM!
+1-1 VICTUS!
 IDS_COMPLETED_1_2
-1-2 FACTUM!
+1-2 VICTUS!
 IDS_COMPLETED_1_3
-1-3 FACTUM!
+1-3 VICTUS!
 IDS_COMPLETED_1_4
-1-4 FACTUM!
+1-4 VICTUS!
 IDS_COMPLETED_2_1
-2-1 FACTUM!
+2-1 VICTUS!
 IDS_COMPLETED_2_2
-2-2 FACTUM!
+2-2 VICTUS!
 IDS_COMPLETED_2_3
-2-3 FACTUM!
+2-3 VICTUS!
 IDS_COMPLETED_2_4
-2-4 FACTUM!
+2-4 VICTUS!
 IDS_COMPLETED_3_1
-3-1 FACTUM!
+3-1 VICTUS!
 IDS_COMPLETED_3_2
-3-2 FACTUM!
+3-2 VICTUS!
 IDS_COMPLETED_3_3
-3-3 FACTUM!
+3-3 VICTUS!
 IDS_COMPLETED_3_4
-3-4 FACTUM!
+3-4 VICTUS!
 IDS_COMPLETED_4_1
-4-1 FACTUM!
+4-1 VICTUS!
 IDS_COMPLETED_4_2
-4-2 FACTUM!
+4-2 VICTUS!
 IDS_COMPLETED_4_3
-4-3 FACTUM!
+4-3 VICTUS!
 IDS_COMPLETED_4_4
-4-4 FACTUM!
+4-4 VICTUS!
 IDS_COMPLETED_5_1
-5-1 FACTUM!
+5-1 VICTUS!
 IDS_COMPLETED_5_2
-5-2 FACTUM!
+5-2 VICTUS!
 IDS_COMPLETED_5_3
-5-3 FACTUM!
+5-3 VICTUS!
 IDS_COMPLETED_MARKET
-MERCATUS FACTUM!
+MERCATUS VICTUS!
 IDS_COMPLETED_CASTLE
-MOENE FACTUM!
+MOENE VICTUM!
 IDS_COMPLETED_MOTHERSHIP
-MOTHERSHIP PERPETRATA!
+MAGNA-NAUTA VICTA!
 IDS_COMPLETED_WORM
-VERMIS FACTUM!
+VERMIS VICTUS!
 IDS_COMPLETED_COG
-URBIS AURAE FACTUM!
+URBS AURAE VICTA!
 IDS_LEVEL_ENTRANCE
 ENTRANCE
 IDS_LABEL_LOOT
@@ -1911,7 +1911,7 @@ NON
 IDS_ENDING_YANG1
 Salve, cives thesaurum venator! Iang sum!
 IDS_ENDING_YANG2
-Commentarium meum video vobiscum! Iam id debet cum stupenis omniis resplendere.
+Commentarium meum video vobiscum! Iam illum debet cum stupenis omniis resplendere.
 IDS_ENDING_YANG3
 Quoniam fecisti robuste hoc pervenire, puto ut exspectes praemium magnum.
 IDS_ENDING_YANG4
@@ -2159,25 +2159,25 @@ IDS_GUIDE_CONNECT
 IDS_GUIDE_NOSAVE
 @B Continue Without Saving Score
 IDS_SHORTCUT_BOMBS
-Brevem defodebam, sed scopulus magnus viam meam cludet.
+Via fodebam, sed scopulus magnus viam meam cludet.
 IDS_SHORTCUT_BOMB1
-Nonne dare posses bombam uti id tollere possum?
+Num dare posses bombam uti illum tollere possum?
 IDS_SHORTCUT_BOMB2
-Nonne dare posses duo bombam uti id tollere possum?
+Num dare posses duo bombam uti illum tollere possum?
 IDS_SHORTCUT_BOMB3
-Nonne dare posses tres bombam uti id tollere possum?
+Num dare posses tres bombam uti illum tollere possum?
 IDS_SHORTCUT_ROPES
 Via fodebam, sed fovea alta impedit.
 IDS_SHORTCUT_ROPE1
-Nonne dare posses funem uti descendere in pace possum?
+Num dare posses funem uti tuto descendere possum?
 IDS_SHORTCUT_ROPE2
-Nonne dare posses duo funem uti descendere in pace possum?
+Num dare posses duo funem uti tuto descendere possum?
 IDS_SHORTCUT_ROPE3
-Nonne dare posses tres funem uti descendere in pace possum?
+Num dare posses tres funem uti tuto descendere possum?
 IDS_SHORTCUT_MONEY1
 Via fodebam, sed aliqui armamentorum succumbuerunt.
 IDS_SHORTCUT_MONEY2
-Nonne dare posses decem millia sestertii pro illa redimere?
+Num dare posses decem millia sestertii pro illa redimere?
 IDS_SHORTCUT_FAIL
 Infeliciter, non habes satis! Mox fortisan!
 IDS_SHORTCUT_SHOTGUN_NEXT1
@@ -2303,11 +2303,11 @@ UNDER CONSTRUCTION!*Future site of the Shortcut Station! Meet me at the end of t
 IDS_SHORTCUT_HINT
 My shortcuts will get you where you want to go, but if you use one your Fastest Times won't get ranked on the Leaderboards... sorry!
 IDS_SHORTCUT_HINT2
-Hey, why are you hitting me? I'm trying to help you out here!
+Heus, cur me percutis? Probo adjuvere te!
 IDS_GAMEOVERDESC_FRIEND
 At least I made a friend!
 IDS_GAMEOVERDESC_COG
-It's the most exquisite tomb in the whole world...
+Illum est sepulcrum elegantissimum in orbe...
 IDS_GAMEOVERDESC_YANG
 Iang was right... the layout of the caves is changing all the time!
 IDS_GAMEOVERDESC_TOUGH
@@ -2359,7 +2359,7 @@ Rem mysterium redimere
 IDS_LEVEL_OLMEC
 LATIUBULUM OLMECI
 IDS_COMPLETED_OLMEC
-LATIUBULUM FACTUM!
+LATIUBULUM VICTUM!
 IDS_LEVEL_YAMA
 SOLIUM YAMAE
 IDS_PAUSED_ENDDEATHMATCH
@@ -2485,7 +2485,7 @@ Factor III
 IDS_CHARSELECT_P4
 Factor IV
 IDS_GRAPHICS
-Visifictae
+VISIFICTAE
 IDS_HNO_GRAPHICS
 Visifictae
 IDS_APPLY_SCREEN
