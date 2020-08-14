@@ -2131,7 +2131,7 @@ Hold down on @L and press @S to pick up items and people.
 IDS_WARNING_UNSAVED
 Nonne? Progressus non scribatus disperibit.
 IDS_WARNING_NOTSAVED
-Nonne? Lucrati non scribent.
+Nonne? Lucrati non scribentur.
 IDS_ERROR_CORRUPTDLC
 The DLC could not be loaded and may be corrupt. Please redownload it from the Xbox LIVE Marketplace.
 IDS_ERROR_WRITING
