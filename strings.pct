@@ -383,7 +383,7 @@ Alien Tank
 IDS_JOURNAL_ALIENTANK_DESC
 The survival rate of tank drivers is at an all-time low.
 IDS_JOURNAL_ALIENLORD
-Alien Lord
+Dominus Alienigeno
 IDS_JOURNAL_ALIENLORD_DESC
 A powerful psychic creature that commands a large spacecraft.
 IDS_JOURNAL_ALIENQUEEN
@@ -705,17 +705,17 @@ Audio serpentes ... ego odi serpentes!
 IDS_LEVELFEELING_SPIDER
 Cutis meum horret...
 IDS_LEVELFEELING_JULY
-Hoc videtur provenire ex orbe alienigeno...
+Provenire a orbe alio videntur...
 IDS_LEVELFEELING_YETICAVE
 Odor in hic sicut est capillus humidus.
 IDS_LEVELFEELING_SACPIT
-Audis orationem Kalidi!
+Orationem Kalidi audis!
 IDS_LEVELFEELING_VLAD
 Valde nauseas!
 IDS_LEVELFEELING_LAKE
-Audio aquam torrentem!
+Aquam torrentem audio!
 IDS_LEVELFEELING_ASHIP
-Hic sentio psychicam praesentiam!
+Non a terra venerunt!
 IDS_LEVELFEELING_DARK
 Nihil video!
 IDS_TRYAGAIN
@@ -1483,7 +1483,7 @@ Percussus
 IDS_GAMEOVER_STOMPED
 Calcatus
 IDS_GAMEOVER_STUNG
-Punctus Ape
+Punctus a Ape
 IDS_GAMEOVER_EATEN
 Consumptus
 IDS_GAMEOVER_ZAPPED
@@ -1505,7 +1505,7 @@ Pellectus
 IDS_GAMEOVER_HAUNTED
 Inhaesus
 IDS_GAMEOVER_BRAINDAMAGE
-Cerebrum Damnum
+Cerebrum Convolneratum
 IDS_GAMEOVER_LONGFALL
 Casus Altus
 IDS_GAMEOVER_BLOWNUP
@@ -1585,7 +1585,7 @@ Allergicus apibus esse debeo.
 IDS_GAMEOVERDESC_ACID
 Carnis meus ab osse decoquet.
 IDS_GAMEOVERDESC_JIANGSHI
-Jiang shi animum meum suxi.
+Jiang shi animum meum suxit.
 IDS_GAMEOVERDESC_KNIGHT
 Datus sum gratam mediaevalem.
 IDS_GAMEOVERDESC_PSYCHICBLAST
@@ -1899,7 +1899,7 @@ Wins
 IDS_DEATHMATCH_LIFE
 Life
 IDS_DEATHMATCH_BOMBS
-Bombs
+Bomba
 IDS_DEATHMATCH_ROPE
 Rope
 IDS_DEATHMATCH_BOTS
@@ -2109,7 +2109,7 @@ Tempus:
 IDS_GUIDE_SELECTCHAR
 @A Electere Personam
 IDS_SCEPTRE_FITS
-The sceptre fits, but nothing is happening!
+Sceptrum concurret, sed non evenit!
 IDS_WRONG_KEY
 Did you really bring the gold key to 4-2? Either The Tunnelman, or the gold chest in the mines wants that key.
 IDS_ANUBIS_WARNING
@@ -2119,7 +2119,7 @@ IDS_LOCKED_ARENA
 IDS_LEVELFEELING_COG
 Ultime perveni!
 IDS_SHOPBUYIDOL
-Let me take that off your hands!
+Dare mihi licet!
 IDS_HEADER_BOMBS
 BOMBA
 IDS_HEADER_ROPES
@@ -2131,7 +2131,7 @@ Hold down on @L and press @S to pick up items and people.
 IDS_WARNING_UNSAVED
 Nonne? Progressus non scribatus disperibit.
 IDS_WARNING_NOTSAVED
-Are you sure? Scores will not be saved.
+Nonne? Lucrati non scribent.
 IDS_ERROR_CORRUPTDLC
 The DLC could not be loaded and may be corrupt. Please redownload it from the Xbox LIVE Marketplace.
 IDS_ERROR_WRITING
